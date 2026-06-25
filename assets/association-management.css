@@ -150,3 +150,197 @@ tr.row-illegal td, tr.row-error td {
 a {
   color: #1d4ed8;
 }
+.simulator-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(320px, 0.9fr);
+  gap: 18px;
+  align-items: start;
+}
+.simulator-main,
+.simulator-sidebar,
+.simulator-panel,
+.summary-block {
+  background: #ffffff;
+  border: 1px solid #d6dee6;
+  border-radius: 16px;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.06);
+}
+.simulator-main,
+.simulator-sidebar {
+  padding: 18px;
+}
+.simulator-sidebar {
+  position: sticky;
+  top: 18px;
+}
+.simulator-panel {
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.simulator-actions,
+.simulator-export-actions,
+.scenario-grid {
+  display: grid;
+  gap: 10px;
+}
+.simulator-actions {
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+.simulator-export-actions {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+.scenario-grid {
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+.scenario-slot label,
+.simulator-field label,
+.acknowledgement-box label {
+  display: block;
+  font-size: 13px;
+  color: #52606d;
+  margin-bottom: 6px;
+}
+.scenario-slot select,
+.simulator-field select,
+.simulator-panel button {
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid #ccd5df;
+  background: #ffffff;
+  font-family: inherit;
+  font-size: 14px;
+}
+.simulator-panel button {
+  cursor: pointer;
+  background: #edf4fb;
+  color: #12315a;
+  font-weight: 600;
+}
+.simulator-panel button:hover {
+  background: #e0edf9;
+}
+.status-badge {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+}
+.status-badge.valid {
+  background: #dcfce7;
+  color: #166534;
+}
+.status-badge.warning {
+  background: #fff7ed;
+  color: #9a3412;
+}
+.status-badge.illegal {
+  background: #fee2e2;
+  color: #991b1b;
+}
+.summary-block {
+  padding: 14px 16px;
+}
+.summary-block + .summary-block {
+  margin-top: 12px;
+}
+.summary-block h3,
+.simulator-panel h2,
+.simulator-panel h3 {
+  margin-top: 0;
+}
+.summary-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 12px;
+}
+.summary-metric {
+  border: 1px solid #e3ebf3;
+  border-radius: 12px;
+  padding: 10px;
+  background: #fbfdff;
+}
+.summary-metric .metric-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #607080;
+}
+.summary-metric .metric-value {
+  margin-top: 6px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.summary-metric .metric-detail {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #607080;
+}
+.keeper-check-cell {
+  text-align: center;
+  width: 72px;
+}
+.keeper-checkbox {
+  width: 18px;
+  height: 18px;
+}
+.selected-player-row td {
+  background: #eff6ff !important;
+}
+.illegal-player-row td {
+  background: #fff7ed !important;
+}
+.acknowledgement-box {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #fed7aa;
+  background: #fff7ed;
+}
+.acknowledgement-box.hidden,
+.bird-rights-panel.hidden {
+  display: none;
+}
+.acknowledgement-box input {
+  margin-right: 8px;
+}
+.issues-list {
+  margin: 0;
+  padding-left: 18px;
+}
+.issues-list li + li {
+  margin-top: 6px;
+}
+.scenario-empty {
+  color: #667480;
+  font-style: italic;
+}
+.team-page-grid {
+  display: grid;
+  gap: 18px;
+}
+.team-page-grid .section {
+  margin-bottom: 0;
+}
+@media (max-width: 980px) {
+  .simulator-layout {
+    grid-template-columns: 1fr;
+  }
+  .simulator-sidebar {
+    position: static;
+  }
+}
+@media (max-width: 640px) {
+  .page {
+    padding: 16px;
+  }
+  .summary-metrics {
+    grid-template-columns: 1fr;
+  }
+  .simulator-actions,
+  .simulator-export-actions,
+  .scenario-grid {
+    grid-template-columns: 1fr;
+  }
+}

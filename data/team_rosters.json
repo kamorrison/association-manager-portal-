@@ -1,5 +1,5 @@
-[
-  {
+{
+  "amherst_speedsters": {
     "manager_name": "Jim",
     "roster": [
       {
@@ -264,59 +264,9 @@
       "warning_count": 3
     },
     "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Cam Whitmore",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Amherst Speedsters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Ivica Zubac",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Amherst Speedsters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Sam Hauser",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Amherst Speedsters"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Amherst Speedsters"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Amherst Speedsters"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Amherst Speedsters"
-      }
-    ]
+    "team_name": "Amherst Speedsters"
   },
-  {
+  "boston_bombers": {
     "manager_name": "Jorge S",
     "roster": [
       {
@@ -601,67 +551,9 @@
       "warning_count": 4
     },
     "team_id": "boston_bombers",
-    "team_name": "Boston Bombers",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "GG Jackson",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Lonzo Ball",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Tobias Harris",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Pick 1 needs 1 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Boston Bombers"
-      }
-    ]
+    "team_name": "Boston Bombers"
   },
-  {
+  "brooklyn_phoeniks": {
     "manager_name": "Killa",
     "roster": [
       {
@@ -946,51 +838,9 @@
       "warning_count": 4
     },
     "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kyle Filipowski",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Brooklyn Phoeniks"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Brooklyn Phoeniks"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Brooklyn Phoeniks"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Brooklyn Phoeniks"
-      },
-      {
-        "explanation": "Pick 6 needs 6 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Brooklyn Phoeniks"
-      }
-    ]
+    "team_name": "Brooklyn Phoeniks"
   },
-  {
+  "chennai_steveblakeexpress": {
     "manager_name": "Prasana",
     "roster": [
       {
@@ -1275,59 +1125,9 @@
       "warning_count": 4
     },
     "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jimmy Butler III",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Malik Monk",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "Pick 4 needs 4 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Chennai SteveBlakeExpress"
-      }
-    ]
+    "team_name": "Chennai SteveBlakeExpress"
   },
-  {
+  "chicago_sunroofers": {
     "manager_name": "Rick",
     "roster": [
       {
@@ -1612,51 +1412,9 @@
       "warning_count": 4
     },
     "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kyle Kuzma",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Chicago Sunroofers"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Chicago Sunroofers"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Chicago Sunroofers"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Chicago Sunroofers"
-      },
-      {
-        "explanation": "Pick 10 needs 10 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Chicago Sunroofers"
-      }
-    ]
+    "team_name": "Chicago Sunroofers"
   },
-  {
+  "flint_tropics": {
     "manager_name": "taylor",
     "roster": [
       {
@@ -1941,115 +1699,9 @@
       "warning_count": 4
     },
     "team_id": "flint_tropics",
-    "team_name": "Flint Tropics",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Bub Carrington",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jakob Poeltl",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jordan Poole",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kelly Oubre Jr.",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Khaman Maluach",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Moussa Diabat\u00e9",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Neemias Queta",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Rui Hachimura",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Zach LaVine",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Pick 8 needs 8 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Flint Tropics"
-      }
-    ]
+    "team_name": "Flint Tropics"
   },
-  {
+  "frankfurt_17ers": {
     "manager_name": "BG",
     "roster": [
       {
@@ -2334,67 +1986,9 @@
       "warning_count": 4
     },
     "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Bobby Portis",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jusuf Nurki\u0107",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Nikola Jovi\u0107",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Pick 9 needs 9 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Frankfurt 17ers"
-      }
-    ]
+    "team_name": "Frankfurt 17ers"
   },
-  {
+  "gotham_great_danes": {
     "manager_name": "Dane",
     "roster": [
       {
@@ -2679,67 +2273,9 @@
       "warning_count": 3
     },
     "team_id": "gotham_great_danes",
-    "team_name": "Gotham Great Danes",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Bradley Beal",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "John Collins",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jonathan Kuminga",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kristaps Porzi\u0146\u0123is",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Gotham Great Danes"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Gotham Great Danes"
-      }
-    ]
+    "team_name": "Gotham Great Danes"
   },
-  {
+  "kings_landing_kings": {
     "manager_name": "Walson",
     "roster": [
       {
@@ -3004,59 +2540,9 @@
       "warning_count": 4
     },
     "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Dorian Finney-Smith",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kevin Porter Jr.",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "Pick 2 needs 2 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Kings Landing Kings"
-      }
-    ]
+    "team_name": "Kings Landing Kings"
   },
-  {
+  "miami_moneymen": {
     "manager_name": "Blue Cagez",
     "roster": [
       {
@@ -3321,67 +2807,9 @@
       "warning_count": 4
     },
     "team_id": "miami_moneymen",
-    "team_name": "Miami Moneymen",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Carter Bryant",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jonathan Isaac",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Taylor Hendricks",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Pick 3 needs 3 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Miami Moneymen"
-      }
-    ]
+    "team_name": "Miami Moneymen"
   },
-  {
+  "ny_knickerbockers": {
     "manager_name": "4EVRL8",
     "roster": [
       {
@@ -3666,75 +3094,9 @@
       "warning_count": 4
     },
     "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Anfernee Simons",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Gradey Dick",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Isaiah Collier",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jaylen Wells",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Pick 7 needs 7 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "NY Knickerbockers"
-      }
-    ]
+    "team_name": "NY Knickerbockers"
   },
-  {
+  "rucker_park_busters": {
     "manager_name": "KnicksTape",
     "roster": [
       {
@@ -3999,83 +3361,9 @@
       "warning_count": 4
     },
     "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "D'Angelo Russell",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Kasparas Jaku\u010dionis",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Nikola Topi\u0107",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Ty Jerome",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Yves Missi",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Pick 14 needs 14 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Rucker Park Busters"
-      }
-    ]
+    "team_name": "Rucker Park Busters"
   },
-  {
+  "salt_lake_city_soakers": {
     "manager_name": "Abel",
     "roster": [
       {
@@ -4340,43 +3628,9 @@
       "warning_count": 4
     },
     "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers",
-    "warnings": [
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Salt Lake City Soakers"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Salt Lake City Soakers"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Salt Lake City Soakers"
-      },
-      {
-        "explanation": "Pick 5 needs 5 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Salt Lake City Soakers"
-      }
-    ]
+    "team_name": "Salt Lake City Soakers"
   },
-  {
+  "syracuse_sparrows": {
     "manager_name": "teddy",
     "roster": [
       {
@@ -4641,91 +3895,9 @@
       "warning_count": 3
     },
     "team_id": "syracuse_sparrows",
-    "team_name": "Syracuse Sparrows",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Cameron Johnson",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Christian Braun",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Daniel Gafford",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Dennis Schr\u00f6der",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Jared McCain",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Rob Dillingham",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "T.J. McConnell",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Syracuse Sparrows"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Syracuse Sparrows"
-      }
-    ]
+    "team_name": "Syracuse Sparrows"
   },
-  {
+  "titanes_de_san_juan": {
     "manager_name": "luifeton roman",
     "roster": [
       {
@@ -4990,59 +4162,9 @@
       "warning_count": 4
     },
     "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Caris LeVert",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Tidjane Sala\u00fcn",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "Pick 12 needs 12 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-        "severity": "Warning",
-        "team_name": "Titanes de San Juan"
-      }
-    ]
+    "team_name": "Titanes de San Juan"
   },
-  {
+  "van_city_grizzlies": {
     "manager_name": "Kooks",
     "roster": [
       {
@@ -5327,48 +4449,6 @@
       "warning_count": 3
     },
     "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies",
-    "warnings": [
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Isaiah Jackson",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Van City Grizzlies"
-      },
-      {
-        "explanation": "Player has a salary row but is not on the current roster export.",
-        "issue_type": "salary_row_not_on_current_roster",
-        "player": "Mark Williams",
-        "recommended_fix": "Confirm whether this is an intentional keeper-pool-only row.",
-        "severity": "Info",
-        "team_name": "Van City Grizzlies"
-      },
-      {
-        "explanation": "Fewer than 4 keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Van City Grizzlies"
-      },
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Warning",
-        "team_name": "Van City Grizzlies"
-      },
-      {
-        "explanation": "No keeper submission file row found for this team.",
-        "issue_type": "missing_keeper_submission",
-        "player": "",
-        "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Van City Grizzlies"
-      }
-    ]
+    "team_name": "Van City Grizzlies"
   }
-]
+}

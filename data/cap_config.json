@@ -1,0 +1,12 @@
+{
+  "hard_cap": 484.84,
+  "league_name": "The Association",
+  "luxury_tax_rate": 0.1,
+  "max_keepers": 12,
+  "min_keepers": 4,
+  "min_non_rookie_keepers": 4,
+  "roster_size": 12,
+  "salary_cap_status": "estimated",
+  "season_label": "2026",
+  "soft_cap": 398.0
+}
