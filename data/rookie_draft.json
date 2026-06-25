@@ -1,0 +1,178 @@
+[
+  {
+    "current_pick_owner": "Boston Bombers",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Washington",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Washington",
+    "pick": 1,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 1,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Kings Landing Kings",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Indiana",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Indiana",
+    "pick": 2,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 2,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Miami Moneymen",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Brooklyn",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Brooklyn",
+    "pick": 3,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 3,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Chennai SteveBlakeExpress",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Utah",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Utah",
+    "pick": 4,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 4,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Salt Lake City Soakers",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Sacramento",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Sacramento",
+    "pick": 5,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 5,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Brooklyn Phoeniks",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Memphis",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Memphis",
+    "pick": 6,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 6,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "NY Knickerbockers",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Nola",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Nola",
+    "pick": 7,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 7,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Flint Tropics",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Dallas",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Dallas",
+    "pick": 8,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 8,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Frankfurt 17ers",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Chicago",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Chicago",
+    "pick": 9,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 9,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Chicago Sunroofers",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Milw",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Milw",
+    "pick": 10,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 10,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Brooklyn Phoeniks ( via Syracuse Sparrows)",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Golden State",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Golden State",
+    "pick": 11,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 11,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Titanes de San Juan",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Las Angelos Clippers",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Las Angelos Clippers",
+    "pick": 12,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 12,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Flint Tropics  (via VanCity Grizzlies)",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Miami",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Miami",
+    "pick": 13,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 13,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Rucker Park Busters",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "Charlotte",
+    "notes": "Mapped from NBA Lottery Mapping sheet",
+    "original_pick_owner": "Charlotte",
+    "pick": 14,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 14,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "Chicago Sunroofers (via Gotham Great Danes)",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "",
+    "notes": "",
+    "original_pick_owner": "Chicago Sunroofers (via Gotham Great Danes)",
+    "pick": 15,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 15,
+    "submitted_preference_count": 0
+  },
+  {
+    "current_pick_owner": "VanCity Grizzlies(via Amherst Speedsters)",
+    "missing_or_incomplete": "Yes",
+    "nba_lottery_proxy_team": "",
+    "notes": "",
+    "original_pick_owner": "VanCity Grizzlies(via Amherst Speedsters)",
+    "pick": 16,
+    "preference_submission_status": "Missing",
+    "required_preference_count": 16,
+    "submitted_preference_count": 0
+  }
+]

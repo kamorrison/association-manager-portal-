@@ -1,0 +1,62 @@
+[
+  {
+    "label": "2026 Estimated Soft Cap",
+    "metric": "soft_cap_2026",
+    "value": 398.0
+  },
+  {
+    "label": "2026 Estimated Hard Cap",
+    "metric": "hard_cap_2026",
+    "value": 484.8363636
+  },
+  {
+    "label": "Teams",
+    "metric": "number_of_teams",
+    "value": 16
+  },
+  {
+    "label": "Players Under Review",
+    "metric": "players_under_review",
+    "value": 252
+  },
+  {
+    "label": "Teams Over Soft Cap",
+    "metric": "teams_over_soft_cap",
+    "value": 0
+  },
+  {
+    "label": "Teams Over Hard Cap",
+    "metric": "teams_over_hard_cap",
+    "value": 0
+  },
+  {
+    "label": "Valid Keeper Submissions",
+    "metric": "valid_keeper_submissions",
+    "value": 0
+  },
+  {
+    "label": "Missing Keeper Submissions",
+    "metric": "missing_keeper_submissions",
+    "value": 16
+  },
+  {
+    "label": "Rookie Submissions Complete",
+    "metric": "rookie_submissions_complete",
+    "value": 0
+  },
+  {
+    "label": "Rookie Submissions Incomplete",
+    "metric": "rookie_submissions_incomplete",
+    "value": 16
+  },
+  {
+    "label": "League Warning Count",
+    "metric": "league_warning_count",
+    "value": 64
+  },
+  {
+    "label": "League Error Count",
+    "metric": "league_error_count",
+    "value": 0
+  }
+]

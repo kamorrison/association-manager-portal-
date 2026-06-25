@@ -1,0 +1,202 @@
+[
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "James Harden"
+    ],
+    "manager_name": "Jim",
+    "notes": "Missing keeper submission.",
+    "team_id": "amherst_speedsters",
+    "team_name": "Amherst Speedsters",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Kevin Durant",
+      "DeMar DeRozan"
+    ],
+    "manager_name": "Jorge S",
+    "notes": "Missing keeper submission.",
+    "team_id": "boston_bombers",
+    "team_name": "Boston Bombers",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [],
+    "manager_name": "Killa",
+    "notes": "Missing keeper submission.",
+    "team_id": "brooklyn_phoeniks",
+    "team_name": "Brooklyn Phoeniks",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Herbert Jones"
+    ],
+    "manager_name": "Prasana",
+    "notes": "Missing keeper submission.",
+    "team_id": "chennai_steveblakeexpress",
+    "team_name": "Chennai SteveBlakeExpress",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Jaylen Brown",
+      "Josh Giddey",
+      "Zion Williamson"
+    ],
+    "manager_name": "Rick",
+    "notes": "Missing keeper submission.",
+    "team_id": "chicago_sunroofers",
+    "team_name": "Chicago Sunroofers",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [],
+    "manager_name": "taylor",
+    "notes": "Missing keeper submission.",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Anthony Edwards",
+      "De'Aaron Fox",
+      "Michael Porter Jr.",
+      "Franz Wagner",
+      "Paolo Banchero"
+    ],
+    "manager_name": "BG",
+    "notes": "Missing keeper submission.",
+    "team_id": "frankfurt_17ers",
+    "team_name": "Frankfurt 17ers",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Darius Garland",
+      "Desmond Bane",
+      "Jonathan Kuminga"
+    ],
+    "manager_name": "Dane",
+    "notes": "Missing keeper submission.",
+    "team_id": "gotham_great_danes",
+    "team_name": "Gotham Great Danes",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Bam Adebayo",
+      "Jaren Jackson Jr.",
+      "Aaron Gordon"
+    ],
+    "manager_name": "Walson",
+    "notes": "Missing keeper submission.",
+    "team_id": "kings_landing_kings",
+    "team_name": "Kings Landing Kings",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [],
+    "manager_name": "Blue Cagez",
+    "notes": "Missing keeper submission.",
+    "team_id": "miami_moneymen",
+    "team_name": "Miami Moneymen",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Josh Hart"
+    ],
+    "manager_name": "4EVRL8",
+    "notes": "Missing keeper submission.",
+    "team_id": "ny_knickerbockers",
+    "team_name": "NY Knickerbockers",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Karl-Anthony Towns",
+      "Chet Holmgren",
+      "Cam Thomas",
+      "Ayo Dosunmu"
+    ],
+    "manager_name": "KnicksTape",
+    "notes": "Missing keeper submission.",
+    "team_id": "rucker_park_busters",
+    "team_name": "Rucker Park Busters",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [],
+    "manager_name": "Abel",
+    "notes": "Missing keeper submission.",
+    "team_id": "salt_lake_city_soakers",
+    "team_name": "Salt Lake City Soakers",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Jalen Green"
+    ],
+    "manager_name": "teddy",
+    "notes": "Missing keeper submission.",
+    "team_id": "syracuse_sparrows",
+    "team_name": "Syracuse Sparrows",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Jalen Brunson",
+      "Scottie Barnes",
+      "Miles Bridges"
+    ],
+    "manager_name": "luifeton roman",
+    "notes": "Missing keeper submission.",
+    "team_id": "titanes_de_san_juan",
+    "team_name": "Titanes de San Juan",
+    "valid": "Yes"
+  },
+  {
+    "cap_impact": 0.0,
+    "declared_bird_rights_player": "",
+    "eligible_players": [
+      "Jalen Williams"
+    ],
+    "manager_name": "Kooks",
+    "notes": "Missing keeper submission.",
+    "team_id": "van_city_grizzlies",
+    "team_name": "Van City Grizzlies",
+    "valid": "Yes"
+  }
+]
