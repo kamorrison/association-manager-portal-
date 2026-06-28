@@ -3,10 +3,6 @@
     return (value === null || value === undefined) ? "" : String(value).trim();
   }
 
-  function slugify(value) {
-    return text(value).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "");
-  }
-
   function truthy(value) {
     return ["true", "yes", "y", "1"].indexOf(text(value).toLowerCase()) >= 0;
   }
@@ -74,10 +70,10 @@
 
   function parseQueryState() {
     const params = new URLSearchParams(window.location.search);
-    const keepers = text(params.get("keepers")).split(",").map(function(item) { return slugify(item); }).filter(Boolean);
+    const keepers = text(params.get("keepers")).split(",").map(function(item) { return text(item); }).filter(Boolean);
     return {
       keepers: keepers,
-      bird: slugify(params.get("bird")),
+      bird: text(params.get("bird")),
       taxAck: params.get("tax_ack") === "1",
       auctionAck: params.get("auction_ack") === "1"
     };
@@ -109,12 +105,29 @@
     window.history.replaceState({}, "", next);
   }
 
-  function buildInitialSlots(players, queryState) {
+  function buildAliasLookup(players) {
+    const aliases = {};
+    players.forEach(function(player) {
+      aliases[player.player_key] = player.player_key;
+      (player.player_aliases || []).forEach(function(alias) {
+        aliases[text(alias)] = player.player_key;
+      });
+    });
+    return aliases;
+  }
+
+  function normalizePlayerKey(value, aliases) {
+    const key = text(value);
+    return aliases[key] || key;
+  }
+
+  function buildInitialSlots(players, queryState, aliases) {
     const seen = {};
     const queryKeepers = (queryState.keepers || []).filter(function(slug) {
-      return players.some(function(player) { return player.player_slug === slug; });
+      const key = normalizePlayerKey(slug, aliases);
+      return players.some(function(player) { return player.player_key === key; });
     });
-    const selected = queryKeepers.length ? queryKeepers : players.filter(function(player) { return truthy(player.keeper_selected); }).map(function(player) { return player.player_slug; });
+    const selected = queryKeepers.length ? queryKeepers.map(function(key) { return normalizePlayerKey(key, aliases); }) : players.filter(function(player) { return truthy(player.keeper_selected); }).map(function(player) { return player.player_key; });
     const slots = new Array(12).fill("");
     selected.forEach(function(slug, index) {
       if (!seen[slug] && index < slots.length) {
@@ -148,7 +161,7 @@
     const softCapRoom = softCap - projectedSalary;
     const luxuryTaxEstimate = projectedSalary > softCap ? ((projectedSalary - softCap) * taxRate) : 0;
     const selectedBirdPlayers = selectedPlayers.filter(function(player) { return truthy(player.bird_rights_eligible); });
-    const selectedBirdSlugs = selectedBirdPlayers.map(function(player) { return player.player_slug; });
+    const selectedBirdSlugs = selectedBirdPlayers.map(function(player) { return player.player_key; });
     const issues = [];
     const warnings = [];
     let status = "valid";
@@ -260,13 +273,13 @@
   function chooseCheapestNonRookies(players, count) {
     return players.filter(function(player) { return !truthy(player.rookie_flag); }).sort(function(a, b) {
       return asNumber(a.approved_2026_salary || a.salary_2026) - asNumber(b.approved_2026_salary || b.salary_2026);
-    }).slice(0, count).map(function(player) { return player.player_slug; });
+    }).slice(0, count).map(function(player) { return player.player_key; });
   }
 
   function chooseHighestSalaryNonRookies(players, count) {
     return players.filter(function(player) { return !truthy(player.rookie_flag); }).sort(function(a, b) {
       return asNumber(b.approved_2026_salary || b.salary_2026) - asNumber(a.approved_2026_salary || a.salary_2026);
-    }).slice(0, count).map(function(player) { return player.player_slug; });
+    }).slice(0, count).map(function(player) { return player.player_key; });
   }
 
   function setSlotsFromList(state, slugs) {
@@ -283,14 +296,15 @@
     }
     const players = team.roster.slice();
     const playersBySlug = {};
+    const aliasLookup = buildAliasLookup(players);
     players.forEach(function(player) {
-      playersBySlug[player.player_slug] = player;
+      playersBySlug[player.player_key] = player;
     });
 
     const queryState = parseQueryState();
     const state = {
-      slots: buildInitialSlots(players, queryState),
-      birdRightsSlug: queryState.bird,
+      slots: buildInitialSlots(players, queryState, aliasLookup),
+      birdRightsSlug: normalizePlayerKey(queryState.bird, aliasLookup),
       ackTax: queryState.taxAck,
       ackAuction: queryState.auctionAck
     };
@@ -365,7 +379,7 @@
       state.slots.filter(Boolean).forEach(function(slug) { selected[slug] = true; });
       rosterCheckboxes.forEach(function(box) {
         const row = box.closest("tr");
-        const slug = box.getAttribute("data-player-slug");
+        const slug = box.getAttribute("data-player-key");
         box.checked = !!selected[slug];
         if (row) {
           row.classList.toggle("selected-player-row", !!selected[slug]);
@@ -396,17 +410,17 @@
         });
         players.forEach(function(player) {
           const option = document.createElement("option");
-          option.value = player.player_slug;
+          option.value = player.player_key;
           option.textContent = player.player_name + " (" + formatMoney(player.approved_2026_salary || player.salary_2026) + ")";
-          option.disabled = !!selectedElsewhere[player.player_slug];
-          if (state.slots[index] === player.player_slug) {
+          option.disabled = !!selectedElsewhere[player.player_key];
+          if (state.slots[index] === player.player_key) {
             option.selected = true;
           }
           select.appendChild(option);
         });
         select.addEventListener("change", function(event) {
           const slotIndex = parseInt(event.target.getAttribute("data-slot-index"), 10);
-          const nextSlug = slugify(event.target.value);
+          const nextSlug = normalizePlayerKey(event.target.value, aliasLookup);
           if (nextSlug) {
             const duplicateIndex = state.slots.findIndex(function(value, currentIndex) {
               return currentIndex !== slotIndex && value === nextSlug;
@@ -433,14 +447,14 @@
       birdRightsSelect.appendChild(noneOption);
       teamBirdPlayers.forEach(function(player) {
         const option = document.createElement("option");
-        option.value = player.player_slug;
+        option.value = player.player_key;
         option.textContent = player.player_name + " (" + formatMoney(player.approved_2026_salary || player.salary_2026) + ")";
-        if (state.birdRightsSlug === player.player_slug) {
+        if (state.birdRightsSlug === player.player_key) {
           option.selected = true;
         }
         birdRightsSelect.appendChild(option);
       });
-      if (state.birdRightsSlug && !teamBirdPlayers.some(function(player) { return player.player_slug === state.birdRightsSlug; })) {
+      if (state.birdRightsSlug && !teamBirdPlayers.some(function(player) { return player.player_key === state.birdRightsSlug; })) {
         state.birdRightsSlug = "";
       }
       birdRightsPanel.classList.toggle("hidden", teamBirdPlayers.length === 0);
@@ -499,7 +513,7 @@
 
     rosterCheckboxes.forEach(function(box) {
       box.addEventListener("change", function(event) {
-        const slug = slugify(event.target.getAttribute("data-player-slug"));
+        const slug = normalizePlayerKey(event.target.getAttribute("data-player-key"), aliasLookup);
         const existingIndex = state.slots.indexOf(slug);
         if (event.target.checked) {
           if (existingIndex === -1) {
@@ -520,7 +534,7 @@
     });
 
     birdRightsSelect.addEventListener("change", function(event) {
-      state.birdRightsSlug = slugify(event.target.value);
+      state.birdRightsSlug = normalizePlayerKey(event.target.value, aliasLookup);
       renderAll();
     });
     ackTaxBox.addEventListener("change", function(event) {
@@ -551,7 +565,7 @@
           state.ackTax = false;
           state.ackAuction = false;
         } else if (action === "run-it-back") {
-          setSlotsFromList(state, players.slice(0, asNumber(config.roster_size || 12)).map(function(player) { return player.player_slug; }));
+          setSlotsFromList(state, players.slice(0, asNumber(config.roster_size || 12)).map(function(player) { return player.player_key; }));
         }
         renderAll();
       });
@@ -577,7 +591,7 @@
           truthy(player.bird_rights_eligible) ? "true" : "false"
         ].join(","));
       });
-      downloadFile(slugify(team.team_id || team.team_name) + "_keeper_scenario.csv", lines.join("\n"), "text/csv;charset=utf-8");
+      downloadFile(text(team.team_id || team.team_name).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "") + "_keeper_scenario.csv", lines.join("\n"), "text/csv;charset=utf-8");
     });
 
     renderAll();
