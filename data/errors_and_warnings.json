@@ -570,16 +570,6 @@
     "team_name": "Boston Bombers"
   },
   {
-    "explanation": "Pick 1 needs 1 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Jorge S",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "boston_bombers",
-    "team_name": "Boston Bombers"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "Killa",
@@ -608,26 +598,6 @@
     "severity": "Warning",
     "team_id": "brooklyn_phoeniks",
     "team_name": "Brooklyn Phoeniks"
-  },
-  {
-    "explanation": "Pick 6 needs 6 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Killa",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks"
-  },
-  {
-    "explanation": "Pick 11 needs 11 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "",
-    "team_name": "Brooklyn Phoeniks ( via Syracuse Sparrows)"
   },
   {
     "explanation": "Fewer than 4 keepers selected.",
@@ -660,16 +630,6 @@
     "team_name": "Chennai SteveBlakeExpress"
   },
   {
-    "explanation": "Pick 4 needs 4 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Prasana",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "Rick",
@@ -695,16 +655,6 @@
     "manager_name": "Rick",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers"
-  },
-  {
-    "explanation": "Pick 10 needs 10 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Rick",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "chicago_sunroofers",
     "team_name": "Chicago Sunroofers"
@@ -712,12 +662,12 @@
   {
     "explanation": "Pick 15 needs 15 unique rookie preferences but only 0 were submitted.",
     "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "",
+    "manager_name": "Rick",
     "player": "",
     "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
-    "team_id": "",
-    "team_name": "Chicago Sunroofers (via Gotham Great Danes)"
+    "team_id": "chicago_sunroofers",
+    "team_name": "Chicago Sunroofers"
   },
   {
     "explanation": "Fewer than 4 keepers selected.",
@@ -750,26 +700,6 @@
     "team_name": "Flint Tropics"
   },
   {
-    "explanation": "Pick 8 needs 8 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "taylor",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics"
-  },
-  {
-    "explanation": "Pick 13 needs 13 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "",
-    "team_name": "Flint Tropics  (via VanCity Grizzlies)"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "BG",
@@ -795,16 +725,6 @@
     "manager_name": "BG",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers"
-  },
-  {
-    "explanation": "Pick 9 needs 9 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "BG",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "frankfurt_17ers",
     "team_name": "Frankfurt 17ers"
@@ -870,16 +790,6 @@
     "team_name": "Kings Landing Kings"
   },
   {
-    "explanation": "Pick 2 needs 2 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Walson",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "Blue Cagez",
@@ -905,16 +815,6 @@
     "manager_name": "Blue Cagez",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "miami_moneymen",
-    "team_name": "Miami Moneymen"
-  },
-  {
-    "explanation": "Pick 3 needs 3 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Blue Cagez",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "miami_moneymen",
     "team_name": "Miami Moneymen"
@@ -950,16 +850,6 @@
     "team_name": "NY Knickerbockers"
   },
   {
-    "explanation": "Pick 7 needs 7 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "4EVRL8",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "KnicksTape",
@@ -985,16 +875,6 @@
     "manager_name": "KnicksTape",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters"
-  },
-  {
-    "explanation": "Pick 14 needs 14 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "KnicksTape",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "rucker_park_busters",
     "team_name": "Rucker Park Busters"
@@ -1025,16 +905,6 @@
     "manager_name": "Abel",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers"
-  },
-  {
-    "explanation": "Pick 5 needs 5 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Abel",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers"
@@ -1095,16 +965,6 @@
     "manager_name": "luifeton roman",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan"
-  },
-  {
-    "explanation": "Pick 12 needs 12 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "luifeton roman",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "titanes_de_san_juan",
     "team_name": "Titanes de San Juan"
@@ -1142,11 +1002,11 @@
   {
     "explanation": "Pick 16 needs 16 unique rookie preferences but only 0 were submitted.",
     "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "",
+    "manager_name": "Kooks",
     "player": "",
     "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
-    "team_id": "",
-    "team_name": "VanCity Grizzlies(via Amherst Speedsters)"
+    "team_id": "van_city_grizzlies",
+    "team_name": "Van City Grizzlies"
   }
 ]

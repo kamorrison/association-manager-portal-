@@ -7,7 +7,7 @@
   {
     "label": "2026 Estimated Hard Cap",
     "metric": "hard_cap_2026",
-    "value": 484.84
+    "value": 482.0
   },
   {
     "label": "Teams",
@@ -42,17 +42,17 @@
   {
     "label": "Rookie Submissions Complete",
     "metric": "rookie_submissions_complete",
-    "value": 0
+    "value": 14
   },
   {
     "label": "Rookie Submissions Incomplete",
     "metric": "rookie_submissions_incomplete",
-    "value": 16
+    "value": 2
   },
   {
     "label": "League Warning Count",
     "metric": "league_warning_count",
-    "value": 64
+    "value": 50
   },
   {
     "label": "League Error Count",

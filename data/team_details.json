@@ -308,7 +308,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Jim",
       "missing_submission": "Yes",
@@ -710,7 +710,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Jorge S",
       "missing_submission": "Yes",
@@ -723,7 +723,7 @@
       "team_name": "Boston Bombers",
       "team_page": "teams/boston_bombers.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "boston_bombers",
     "team_name": "Boston Bombers",
@@ -773,14 +773,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Boston Bombers"
-      },
-      {
-        "explanation": "Pick 1 needs 1 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Boston Bombers"
       }
@@ -1120,7 +1112,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Killa",
       "missing_submission": "Yes",
@@ -1133,7 +1125,7 @@
       "team_name": "Brooklyn Phoeniks",
       "team_page": "teams/brooklyn_phoeniks.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "brooklyn_phoeniks",
     "team_name": "Brooklyn Phoeniks",
@@ -1167,14 +1159,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Brooklyn Phoeniks"
-      },
-      {
-        "explanation": "Pick 6 needs 6 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Brooklyn Phoeniks"
       }
@@ -1514,7 +1498,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Prasana",
       "missing_submission": "Yes",
@@ -1527,7 +1511,7 @@
       "team_name": "Chennai SteveBlakeExpress",
       "team_page": "teams/chennai_steveblakeexpress.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "chennai_steveblakeexpress",
     "team_name": "Chennai SteveBlakeExpress",
@@ -1569,14 +1553,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Chennai SteveBlakeExpress"
-      },
-      {
-        "explanation": "Pick 4 needs 4 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Chennai SteveBlakeExpress"
       }
@@ -1918,7 +1894,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Rick",
       "missing_submission": "Yes",
@@ -1969,7 +1945,7 @@
         "team_name": "Chicago Sunroofers"
       },
       {
-        "explanation": "Pick 10 needs 10 unique rookie preferences but only 0 were submitted.",
+        "explanation": "Pick 15 needs 15 unique rookie preferences but only 0 were submitted.",
         "issue_type": "rookie_preferences_incomplete",
         "player": "",
         "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
@@ -2312,7 +2288,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "taylor",
       "missing_submission": "Yes",
@@ -2325,7 +2301,7 @@
       "team_name": "Flint Tropics",
       "team_page": "teams/flint_tropics.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "flint_tropics",
     "team_name": "Flint Tropics",
@@ -2423,14 +2399,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Flint Tropics"
-      },
-      {
-        "explanation": "Pick 8 needs 8 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Flint Tropics"
       }
@@ -2772,7 +2740,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "BG",
       "missing_submission": "Yes",
@@ -2785,7 +2753,7 @@
       "team_name": "Frankfurt 17ers",
       "team_page": "teams/frankfurt_17ers.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "frankfurt_17ers",
     "team_name": "Frankfurt 17ers",
@@ -2835,14 +2803,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Frankfurt 17ers"
-      },
-      {
-        "explanation": "Pick 9 needs 9 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Frankfurt 17ers"
       }
@@ -3182,7 +3142,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Dane",
       "missing_submission": "Yes",
@@ -3567,7 +3527,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Walson",
       "missing_submission": "Yes",
@@ -3580,7 +3540,7 @@
       "team_name": "Kings Landing Kings",
       "team_page": "teams/kings_landing_kings.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "kings_landing_kings",
     "team_name": "Kings Landing Kings",
@@ -3622,14 +3582,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Kings Landing Kings"
-      },
-      {
-        "explanation": "Pick 2 needs 2 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Kings Landing Kings"
       }
@@ -3944,7 +3896,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Blue Cagez",
       "missing_submission": "Yes",
@@ -3957,7 +3909,7 @@
       "team_name": "Miami Moneymen",
       "team_page": "teams/miami_moneymen.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "miami_moneymen",
     "team_name": "Miami Moneymen",
@@ -4007,14 +3959,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Miami Moneymen"
-      },
-      {
-        "explanation": "Pick 3 needs 3 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Miami Moneymen"
       }
@@ -4354,7 +4298,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "4EVRL8",
       "missing_submission": "Yes",
@@ -4367,7 +4311,7 @@
       "team_name": "NY Knickerbockers",
       "team_page": "teams/ny_knickerbockers.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "ny_knickerbockers",
     "team_name": "NY Knickerbockers",
@@ -4425,14 +4369,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "NY Knickerbockers"
-      },
-      {
-        "explanation": "Pick 7 needs 7 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "NY Knickerbockers"
       }
@@ -4747,7 +4683,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "KnicksTape",
       "missing_submission": "Yes",
@@ -4760,7 +4696,7 @@
       "team_name": "Rucker Park Busters",
       "team_page": "teams/rucker_park_busters.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "rucker_park_busters",
     "team_name": "Rucker Park Busters",
@@ -4826,14 +4762,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Rucker Park Busters"
-      },
-      {
-        "explanation": "Pick 14 needs 14 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Rucker Park Busters"
       }
@@ -5148,7 +5076,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Abel",
       "missing_submission": "Yes",
@@ -5161,7 +5089,7 @@
       "team_name": "Salt Lake City Soakers",
       "team_page": "teams/salt_lake_city_soakers.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
@@ -5187,14 +5115,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Salt Lake City Soakers"
-      },
-      {
-        "explanation": "Pick 5 needs 5 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Salt Lake City Soakers"
       }
@@ -5513,7 +5433,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "teddy",
       "missing_submission": "Yes",
@@ -5926,7 +5846,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "luifeton roman",
       "missing_submission": "Yes",
@@ -5939,7 +5859,7 @@
       "team_name": "Titanes de San Juan",
       "team_page": "teams/titanes_de_san_juan.html",
       "validation_status": "Warning",
-      "warning_count": 4
+      "warning_count": 3
     },
     "team_id": "titanes_de_san_juan",
     "team_name": "Titanes de San Juan",
@@ -5981,14 +5901,6 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
-        "severity": "Warning",
-        "team_name": "Titanes de San Juan"
-      },
-      {
-        "explanation": "Pick 12 needs 12 unique rookie preferences but only 0 were submitted.",
-        "issue_type": "rookie_preferences_incomplete",
-        "player": "",
-        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Titanes de San Juan"
       }
@@ -6328,7 +6240,7 @@
       "bird_rights_used": "No",
       "cap_space": 398.0,
       "error_count": 0,
-      "hard_cap_room": 484.84,
+      "hard_cap_room": 482.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Kooks",
       "missing_submission": "Yes",
@@ -6341,7 +6253,7 @@
       "team_name": "Van City Grizzlies",
       "team_page": "teams/van_city_grizzlies.html",
       "validation_status": "Warning",
-      "warning_count": 3
+      "warning_count": 4
     },
     "team_id": "van_city_grizzlies",
     "team_name": "Van City Grizzlies",
@@ -6383,6 +6295,14 @@
         "issue_type": "missing_keeper_submission",
         "player": "",
         "recommended_fix": "Collect and load a keeper submission row before final lock.",
+        "severity": "Warning",
+        "team_name": "Van City Grizzlies"
+      },
+      {
+        "explanation": "Pick 16 needs 16 unique rookie preferences but only 0 were submitted.",
+        "issue_type": "rookie_preferences_incomplete",
+        "player": "",
+        "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
         "severity": "Warning",
         "team_name": "Van City Grizzlies"
       }
