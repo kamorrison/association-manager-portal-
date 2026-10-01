@@ -6,7 +6,7 @@
   "min_keepers": 4,
   "min_non_rookie_keepers": 4,
   "roster_size": 12,
-  "salary_cap_status": "estimated",
+  "salary_cap_status": "final",
   "season_label": "2026",
   "soft_cap": 398.0
 }

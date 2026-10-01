@@ -1,11 +1,11 @@
 [
   {
-    "label": "2026 Estimated Soft Cap",
+    "label": "2026 Soft Cap",
     "metric": "soft_cap_2026",
     "value": 398.0
   },
   {
-    "label": "2026 Estimated Hard Cap",
+    "label": "2026 Hard Cap",
     "metric": "hard_cap_2026",
     "value": 482.0
   },
@@ -17,7 +17,7 @@
   {
     "label": "Players Under Review",
     "metric": "players_under_review",
-    "value": 252
+    "value": 266
   },
   {
     "label": "Teams Over Soft Cap",

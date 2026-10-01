@@ -314,7 +314,7 @@
       '  <div class="simulator-main">',
       '    <div class="simulator-panel">',
       '      <h2>Keeper Scenario Builder</h2>',
-      '      <p class="section-note">Toggle keepers, test 12-slot scenarios, and review cap legality in real time. Rookie keepers can be selected, but they do not count toward the required four non-rookie keepers.</p>',
+      '      <p class="section-note">Toggle keepers, test 12-slot scenarios, and review cap legality in real time. A 2026 rookie costs $0 but still uses one of the 12 roster spots and does not count toward the required four non-rookie keepers.</p>',
       '      <div class="simulator-actions">',
       '        <button type="button" data-scenario-action="clear">Clear All</button>',
       '        <button type="button" data-scenario-action="cheapest">Cheapest Legal 4</button>',
@@ -467,7 +467,7 @@
       legalityBadge.className = "status-badge " + evaluation.statusClass;
       legalityBadge.textContent = evaluation.legalityStatus;
       const metrics = [
-        ["Selected Keepers", String(evaluation.keeperCount), "Non-rookie: " + String(evaluation.nonRookieCount)],
+        ["Roster Spots Used", String(evaluation.keeperCount) + " / 12", "Non-rookie keepers: " + String(evaluation.nonRookieCount)],
         ["Projected Keeper Salary", formatMoney(evaluation.projectedSalary), ""],
         ["Soft Cap Room", formatMoney(evaluation.softCapRoom), evaluation.overSoft > 0 ? ("Over soft cap by " + formatMoney(evaluation.overSoft)) : "Under soft cap"],
         ["Hard Cap Room", formatMoney(evaluation.hardCapRoom), ""],
