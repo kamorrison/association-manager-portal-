@@ -97,7 +97,7 @@
     "team_name": "Chicago Sunroofers",
     "team_page": "teams/chicago_sunroofers.html",
     "validation_status": "Warning",
-    "warning_count": 4
+    "warning_count": 3
   },
   {
     "auction_eligible": "No",
@@ -317,6 +317,6 @@
     "team_name": "Van City Grizzlies",
     "team_page": "teams/van_city_grizzlies.html",
     "validation_status": "Warning",
-    "warning_count": 4
+    "warning_count": 3
   }
 ]

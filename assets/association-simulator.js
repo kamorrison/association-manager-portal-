@@ -314,7 +314,7 @@
       '  <div class="simulator-main">',
       '    <div class="simulator-panel">',
       '      <h2>Keeper Scenario Builder</h2>',
-      '      <p class="section-note">Toggle keepers, test 12-slot scenarios, and review cap legality in real time. A 2026 rookie costs $0 but still uses one of the 12 roster spots and does not count toward the required four non-rookie keepers.</p>',
+      '      <p class="section-note">Toggle keepers, test 12-slot scenarios, and review cap legality in real time. A 2026 rookie costs $1, uses one of the 12 roster spots, and does not count toward the required four non-rookie keepers.</p>',
       '      <div class="simulator-actions">',
       '        <button type="button" data-scenario-action="clear">Clear All</button>',
       '        <button type="button" data-scenario-action="cheapest">Cheapest Legal 4</button>',

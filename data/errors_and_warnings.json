@@ -660,16 +660,6 @@
     "team_name": "Chicago Sunroofers"
   },
   {
-    "explanation": "Pick 15 needs 15 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Rick",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
-    "severity": "Warning",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers"
-  },
-  {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
     "manager_name": "taylor",
@@ -995,16 +985,6 @@
     "manager_name": "Kooks",
     "player": "",
     "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies"
-  },
-  {
-    "explanation": "Pick 16 needs 16 unique rookie preferences but only 0 were submitted.",
-    "issue_type": "rookie_preferences_incomplete",
-    "manager_name": "Kooks",
-    "player": "",
-    "recommended_fix": "Collect a complete rookie ranking list before the rookie draft.",
     "severity": "Warning",
     "team_id": "van_city_grizzlies",
     "team_name": "Van City Grizzlies"

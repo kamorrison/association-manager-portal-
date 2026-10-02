@@ -17,7 +17,7 @@
   {
     "label": "Players Under Review",
     "metric": "players_under_review",
-    "value": 266
+    "value": 268
   },
   {
     "label": "Teams Over Soft Cap",
@@ -42,17 +42,17 @@
   {
     "label": "Rookie Submissions Complete",
     "metric": "rookie_submissions_complete",
-    "value": 14
+    "value": 16
   },
   {
     "label": "Rookie Submissions Incomplete",
     "metric": "rookie_submissions_incomplete",
-    "value": 2
+    "value": 0
   },
   {
     "label": "League Warning Count",
     "metric": "league_warning_count",
-    "value": 50
+    "value": 48
   },
   {
     "label": "League Error Count",

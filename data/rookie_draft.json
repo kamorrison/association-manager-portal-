@@ -183,28 +183,28 @@
   },
   {
     "current_pick_owner": "Chicago Sunroofers",
-    "draft_status": "Remaining",
-    "missing_or_incomplete": "Yes",
+    "draft_status": "Selected",
+    "missing_or_incomplete": "No",
     "nba_lottery_proxy_team": "",
     "notes": "Acquired from Gotham Great Danes",
     "original_pick_owner": "Gotham Great Danes",
     "pick": 15,
-    "preference_submission_status": "Missing",
+    "preference_submission_status": "Selected",
     "required_preference_count": 15,
-    "selection": "",
+    "selection": "Hannes Steinbach",
     "submitted_preference_count": 0
   },
   {
     "current_pick_owner": "Van City Grizzlies",
-    "draft_status": "Remaining",
-    "missing_or_incomplete": "Yes",
+    "draft_status": "Selected",
+    "missing_or_incomplete": "No",
     "nba_lottery_proxy_team": "",
     "notes": "Acquired from Amherst Speedsters",
     "original_pick_owner": "Amherst Speedsters",
     "pick": 16,
-    "preference_submission_status": "Missing",
+    "preference_submission_status": "Selected",
     "required_preference_count": 16,
-    "selection": "",
+    "selection": "Christian Anderson Jr.",
     "submitted_preference_count": 0
   }
 ]
