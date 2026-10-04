@@ -1,6 +1,16 @@
 [
   {
     "notes": "",
+    "team_1": "Amherst Speedsters",
+    "team_1_salary": 88.0,
+    "team_1_sends": "Trey Murphy III",
+    "team_2": "Salt Lake City Soakers",
+    "team_2_salary": 30.0,
+    "team_2_sends": "Paul George",
+    "trade_date": "2026-10-04"
+  },
+  {
+    "notes": "",
     "team_1": "Flint Tropics",
     "team_1_salary": 40.0,
     "team_1_sends": "Kyrie Irving",
