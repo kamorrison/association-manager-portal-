@@ -1,5 +1,15 @@
 [
   {
+    "explanation": "Fewer than 4 non-rookie keepers selected.",
+    "issue_type": "keeper_rule",
+    "manager_name": "Abel",
+    "player": "",
+    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
+    "severity": "Error",
+    "team_id": "salt_lake_city_soakers",
+    "team_name": "Salt Lake City Soakers"
+  },
+  {
     "explanation": "Player has a salary row but is not on the current roster export.",
     "issue_type": "salary_row_not_on_current_roster",
     "manager_name": "Jim",
@@ -572,36 +582,6 @@
   {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
-    "manager_name": "Killa",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Killa",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Killa",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
     "manager_name": "Prasana",
     "player": "",
     "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
@@ -688,36 +668,6 @@
     "severity": "Warning",
     "team_id": "flint_tropics",
     "team_name": "Flint Tropics"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "BG",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "BG",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "BG",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers"
   },
   {
     "explanation": "Fewer than 4 keepers selected.",
@@ -842,66 +792,6 @@
   {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
-    "manager_name": "KnicksTape",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "KnicksTape",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "KnicksTape",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Abel",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Abel",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Abel",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
     "manager_name": "teddy",
     "player": "",
     "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
@@ -928,36 +818,6 @@
     "severity": "Warning",
     "team_id": "syracuse_sparrows",
     "team_name": "Syracuse Sparrows"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "luifeton roman",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "luifeton roman",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "luifeton roman",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan"
   },
   {
     "explanation": "Fewer than 4 keepers selected.",

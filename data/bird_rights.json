@@ -29,7 +29,7 @@
     "declared_bird_rights_player": "",
     "eligible_players": [],
     "manager_name": "Killa",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "brooklyn_phoeniks",
     "team_name": "Brooklyn Phoeniks",
     "valid": "Yes"
@@ -82,7 +82,7 @@
       "Jusuf Nurki\u0107"
     ],
     "manager_name": "BG",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "frankfurt_17ers",
     "team_name": "Frankfurt 17ers",
     "valid": "Yes"
@@ -147,7 +147,7 @@
       "Ayo Dosunmu"
     ],
     "manager_name": "KnicksTape",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "rucker_park_busters",
     "team_name": "Rucker Park Busters",
     "valid": "Yes"
@@ -157,10 +157,10 @@
     "declared_bird_rights_player": "",
     "eligible_players": [],
     "manager_name": "Abel",
-    "notes": "Missing keeper submission.",
+    "notes": "Fewer than 4 non-rookie keepers selected.",
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
-    "valid": "Yes"
+    "valid": "No"
   },
   {
     "cap_impact": 0.0,
@@ -183,7 +183,7 @@
       "Miles Bridges"
     ],
     "manager_name": "luifeton roman",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "titanes_de_san_juan",
     "team_name": "Titanes de San Juan",
     "valid": "Yes"

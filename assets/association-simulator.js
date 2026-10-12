@@ -594,6 +594,31 @@
       downloadFile(text(team.team_id || team.team_name).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "") + "_keeper_scenario.csv", lines.join("\n"), "text/csv;charset=utf-8");
     });
 
+    const confirmation = team.keeper_confirmation || {};
+    const verifiedKeepers = confirmation.keepers || [];
+    const copyVerifiedSummary = document.getElementById("copy-verified-discord-summary");
+    const downloadVerifiedCsv = document.getElementById("download-verified-keeper-csv");
+    if (copyVerifiedSummary) {
+      copyVerifiedSummary.addEventListener("click", function() {
+        copyText(text(confirmation.discord_summary));
+      });
+    }
+    if (downloadVerifiedCsv) {
+      downloadVerifiedCsv.addEventListener("click", function() {
+        const lines = ["team_name,player_name,approved_2026_salary,rookie_flag,bird_rights_eligible"];
+        verifiedKeepers.forEach(function(player) {
+          lines.push([
+            '"' + team.team_name.replace(/"/g, '""') + '"',
+            '"' + player.player_name.replace(/"/g, '""') + '"',
+            asNumber(player.approved_2026_salary || player.salary_2026),
+            truthy(player.rookie_flag) ? "true" : "false",
+            truthy(player.bird_rights_eligible) ? "true" : "false"
+          ].join(","));
+        });
+        downloadFile(text(team.team_id || team.team_name).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "") + "_verified_keepers_2026.csv", lines.join("\n"), "text/csv;charset=utf-8");
+      });
+    }
+
     renderAll();
   }
 

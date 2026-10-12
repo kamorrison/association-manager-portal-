@@ -147,6 +147,32 @@ tr.row-illegal td, tr.row-error td {
   color: #667480;
   font-style: italic;
 }
+.verified-keeper-section {
+  border-left: 5px solid #15803d;
+}
+.verified-keeper-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 14px 0;
+}
+.verified-keeper-actions button {
+  cursor: pointer;
+  color: #14532d;
+  background: #dcfce7;
+  border: 1px solid #86efac;
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-family: inherit;
+  font-weight: 700;
+}
+.discord-summary {
+  white-space: pre-wrap;
+  background: #f8fafc;
+  border: 1px solid #d6dee6;
+  border-radius: 10px;
+  padding: 12px;
+}
 a {
   color: #1d4ed8;
 }

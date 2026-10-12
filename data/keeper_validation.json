@@ -30,19 +30,19 @@
     "warning_notes": "Missing keeper submission."
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 320.0,
+    "keeper_count": 9,
+    "legality_status": "Valid",
     "manager_name": "Killa",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 6,
     "over_soft_cap_amount": 0.0,
     "team_id": "brooklyn_phoeniks",
     "team_name": "Brooklyn Phoeniks",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 162.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
@@ -90,19 +90,19 @@
     "warning_notes": "Missing keeper submission."
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 185.0,
+    "keeper_count": 9,
+    "legality_status": "Valid",
     "manager_name": "BG",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 8,
     "over_soft_cap_amount": 0.0,
     "team_id": "frankfurt_17ers",
     "team_name": "Frankfurt 17ers",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 297.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
@@ -165,34 +165,34 @@
     "warning_notes": "Missing keeper submission."
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 326.0,
+    "keeper_count": 4,
+    "legality_status": "Valid",
     "manager_name": "KnicksTape",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 4,
     "over_soft_cap_amount": 0.0,
     "team_id": "rucker_park_busters",
     "team_name": "Rucker Park Busters",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 156.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 320.0,
+    "keeper_count": 5,
+    "legality_status": "Illegal",
     "manager_name": "Abel",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 3,
     "over_soft_cap_amount": 0.0,
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 162.0,
+    "warning_notes": "Fewer than 4 non-rookie keepers selected."
   },
   {
     "auction_eligible": "No",
@@ -210,19 +210,19 @@
     "warning_notes": "Missing keeper submission."
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 309.0,
+    "keeper_count": 5,
+    "legality_status": "Valid",
     "manager_name": "luifeton roman",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 5,
     "over_soft_cap_amount": 0.0,
     "team_id": "titanes_de_san_juan",
     "team_name": "Titanes de San Juan",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 173.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
