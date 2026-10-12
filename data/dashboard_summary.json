@@ -22,7 +22,7 @@
   {
     "label": "Teams Over Soft Cap",
     "metric": "teams_over_soft_cap",
-    "value": 0
+    "value": 1
   },
   {
     "label": "Teams Over Hard Cap",
@@ -32,12 +32,12 @@
   {
     "label": "Valid Keeper Submissions",
     "metric": "valid_keeper_submissions",
-    "value": 5
+    "value": 8
   },
   {
     "label": "Missing Keeper Submissions",
     "metric": "missing_keeper_submissions",
-    "value": 11
+    "value": 7
   },
   {
     "label": "Rookie Submissions Complete",
@@ -52,7 +52,7 @@
   {
     "label": "League Warning Count",
     "metric": "league_warning_count",
-    "value": 33
+    "value": 22
   },
   {
     "label": "League Error Count",

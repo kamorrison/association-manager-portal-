@@ -47,15 +47,15 @@
     "valid": "Yes"
   },
   {
-    "cap_impact": 0.0,
-    "declared_bird_rights_player": "",
+    "cap_impact": 86.0,
+    "declared_bird_rights_player": "Jaylen Brown",
     "eligible_players": [
       "Jaylen Brown",
       "Josh Giddey",
       "Zion Williamson"
     ],
     "manager_name": "Rick",
-    "notes": "Missing keeper submission.",
+    "notes": "Valid only through Bird Rights / full-roster over-cap path.",
     "team_id": "chicago_sunroofers",
     "team_name": "Chicago Sunroofers",
     "valid": "Yes"
@@ -132,7 +132,7 @@
       "Josh Hart"
     ],
     "manager_name": "4EVRL8",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "ny_knickerbockers",
     "team_name": "NY Knickerbockers",
     "valid": "Yes"
@@ -169,7 +169,7 @@
       "Jalen Green"
     ],
     "manager_name": "teddy",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "syracuse_sparrows",
     "team_name": "Syracuse Sparrows",
     "valid": "Yes"
@@ -195,7 +195,7 @@
       "Jalen Williams"
     ],
     "manager_name": "Kooks",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "van_city_grizzlies",
     "team_name": "Van City Grizzlies",
     "valid": "Yes"

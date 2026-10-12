@@ -600,31 +600,11 @@
     "team_name": "Chennai SteveBlakeExpress"
   },
   {
-    "explanation": "Fewer than 4 keepers selected.",
+    "explanation": "Valid only through Bird Rights / full-roster over-cap path.",
     "issue_type": "keeper_rule",
     "manager_name": "Rick",
     "player": "",
     "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Rick",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Rick",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
     "severity": "Warning",
     "team_id": "chicago_sunroofers",
     "team_name": "Chicago Sunroofers"
@@ -748,95 +728,5 @@
     "severity": "Warning",
     "team_id": "miami_moneymen",
     "team_name": "Miami Moneymen"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "4EVRL8",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "4EVRL8",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "4EVRL8",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "teddy",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "syracuse_sparrows",
-    "team_name": "Syracuse Sparrows"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "teddy",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "syracuse_sparrows",
-    "team_name": "Syracuse Sparrows"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "teddy",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "syracuse_sparrows",
-    "team_name": "Syracuse Sparrows"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Kooks",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Kooks",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Kooks",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies"
   }
 ]
