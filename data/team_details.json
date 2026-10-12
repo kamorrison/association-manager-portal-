@@ -904,7 +904,7 @@
           "minimum_salary_applied": false,
           "nba_team": "",
           "normalized_previous_salary": 1.0,
-          "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+          "notes": "",
           "player_aliases": [],
           "player_id": "466.p.10467",
           "player_key": "dylan_harper",
@@ -912,10 +912,10 @@
           "player_slug_display": "dylan_harper",
           "positions": "PG,SG,G,Util",
           "raw_previous_salary": 1.0,
-          "rookie_flag": true,
+          "rookie_flag": false,
           "salary_2025": 1.0,
           "salary_2026": 4.0,
-          "salary_source": "rookie_draft",
+          "salary_source": "waiver_or_faab_review",
           "team_id": "brooklyn_phoeniks",
           "team_name": "Brooklyn Phoeniks"
         },
@@ -1210,7 +1210,7 @@
         "minimum_salary_applied": false,
         "nba_team": "",
         "normalized_previous_salary": 1.0,
-        "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+        "notes": "",
         "player_aliases": [],
         "player_id": "466.p.10467",
         "player_key": "dylan_harper",
@@ -1218,10 +1218,10 @@
         "player_slug_display": "dylan_harper",
         "positions": "PG,SG,G,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 4.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "brooklyn_phoeniks",
         "team_name": "Brooklyn Phoeniks"
       },
@@ -1811,10 +1811,10 @@
         "player_slug_display": "vj_edgecombe",
         "positions": "PG,SG,G,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 24.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "chennai_steveblakeexpress",
         "team_name": "Chennai SteveBlakeExpress"
       },
@@ -1986,10 +1986,10 @@
         "player_slug_display": "cooper_flagg",
         "positions": "PG,SG,G,SF,F,Util,IL",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 24.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "chicago_sunroofers",
         "team_name": "Chicago Sunroofers"
       },
@@ -2580,10 +2580,10 @@
         "player_slug_display": "kon_knueppel",
         "positions": "SG,G,SF,F,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 24.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "flint_tropics",
         "team_name": "Flint Tropics"
       },
@@ -5639,7 +5639,7 @@
   },
   {
     "keeper_confirmation": {
-      "discord_summary": "Salt Lake City Soakers keeper scenario Keepers (5): Trey Murphy III $88, Keyonte George $15, Naz Reid $54, Ace Bailey $4, Keaton Wagler $1 Total salary: $162 Soft cap room: $236 Hard cap room: $320 Luxury tax: $0 Bird Rights: None Auction eligible: No Status: Illegal Notes: Minimum 4 non-rookie keepers required.",
+      "discord_summary": "Salt Lake City Soakers keeper scenario Keepers (5): Trey Murphy III $88, Keyonte George $15, Naz Reid $54, Ace Bailey $4, Keaton Wagler $1 Total salary: $162 Soft cap room: $236 Hard cap room: $320 Luxury tax: $0 Bird Rights: None Auction eligible: Yes Status: Valid",
       "keepers": [
         {
           "approved_2026_salary": 4.0,
@@ -5651,7 +5651,7 @@
           "minimum_salary_applied": false,
           "nba_team": "",
           "normalized_previous_salary": 1.0,
-          "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+          "notes": "",
           "player_aliases": [],
           "player_id": "466.p.10462",
           "player_key": "ace_bailey",
@@ -5659,10 +5659,10 @@
           "player_slug_display": "ace_bailey",
           "positions": "SG,G,SF,PF,F,Util",
           "raw_previous_salary": 1.0,
-          "rookie_flag": true,
+          "rookie_flag": false,
           "salary_2025": 1.0,
           "salary_2026": 4.0,
-          "salary_source": "rookie_draft",
+          "salary_source": "waiver_or_faab_review",
           "team_id": "salt_lake_city_soakers",
           "team_name": "Salt Lake City Soakers"
         },
@@ -5782,7 +5782,7 @@
         "minimum_salary_applied": false,
         "nba_team": "",
         "normalized_previous_salary": 1.0,
-        "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+        "notes": "",
         "player_aliases": [],
         "player_id": "466.p.10462",
         "player_key": "ace_bailey",
@@ -5790,10 +5790,10 @@
         "player_slug_display": "ace_bailey",
         "positions": "SG,G,SF,PF,F,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 4.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "salt_lake_city_soakers",
         "team_name": "Salt Lake City Soakers"
       },
@@ -6099,15 +6099,15 @@
       }
     ],
     "summary": {
-      "auction_eligible": "No",
+      "auction_eligible": "Yes",
       "bird_rights_used": "No",
       "cap_space": 236.0,
-      "error_count": 1,
+      "error_count": 0,
       "hard_cap_room": 320.0,
       "luxury_tax_estimate": 0.0,
       "manager_name": "Abel",
       "missing_submission": "No",
-      "notes": "Fewer than 4 non-rookie keepers selected.",
+      "notes": "",
       "over_soft_cap_amount": 0.0,
       "projected_keeper_salary": 162.0,
       "roster_count": 12,
@@ -6115,21 +6115,12 @@
       "team_id": "salt_lake_city_soakers",
       "team_name": "Salt Lake City Soakers",
       "team_page": "teams/salt_lake_city_soakers.html",
-      "validation_status": "Illegal",
+      "validation_status": "Valid",
       "warning_count": 0
     },
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
-    "warnings": [
-      {
-        "explanation": "Fewer than 4 non-rookie keepers selected.",
-        "issue_type": "keeper_rule",
-        "player": "",
-        "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-        "severity": "Error",
-        "team_name": "Salt Lake City Soakers"
-      }
-    ]
+    "warnings": []
   },
   {
     "keeper_confirmation": {

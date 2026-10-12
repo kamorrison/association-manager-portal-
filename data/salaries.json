@@ -2651,7 +2651,7 @@
     "previous_salary": 1.0,
     "rank_tier": "rank_25_48",
     "raw_previous_salary": 1.0,
-    "salary_source": "rookie_draft",
+    "salary_source": "waiver_or_faab_review",
     "team_name": "Flint Tropics",
     "workbook_2026_salary": 24.0
   },
@@ -2731,7 +2731,7 @@
     "previous_salary": 1.0,
     "rank_tier": "rank_101_192",
     "raw_previous_salary": 1.0,
-    "salary_source": "rookie_draft",
+    "salary_source": "waiver_or_faab_review",
     "team_name": "Brooklyn Phoeniks",
     "workbook_2026_salary": 4.0
   },
@@ -2827,7 +2827,7 @@
     "previous_salary": 1.0,
     "rank_tier": "rank_101_192",
     "raw_previous_salary": 1.0,
-    "salary_source": "rookie_draft",
+    "salary_source": "waiver_or_faab_review",
     "team_name": "Salt Lake City Soakers",
     "workbook_2026_salary": 4.0
   },
@@ -2923,7 +2923,7 @@
     "previous_salary": 1.0,
     "rank_tier": "rank_25_48",
     "raw_previous_salary": 1.0,
-    "salary_source": "rookie_draft",
+    "salary_source": "waiver_or_faab_review",
     "team_name": "Chicago Sunroofers",
     "workbook_2026_salary": 24.0
   },
@@ -2955,7 +2955,7 @@
     "previous_salary": 1.0,
     "rank_tier": "rank_25_48",
     "raw_previous_salary": 1.0,
-    "salary_source": "rookie_draft",
+    "salary_source": "waiver_or_faab_review",
     "team_name": "Chennai SteveBlakeExpress",
     "workbook_2026_salary": 24.0
   },

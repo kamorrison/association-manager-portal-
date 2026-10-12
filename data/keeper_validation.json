@@ -37,7 +37,7 @@
     "legality_status": "Valid",
     "manager_name": "Killa",
     "missing_submission": "No",
-    "non_rookie_keeper_count": 6,
+    "non_rookie_keeper_count": 7,
     "over_soft_cap_amount": 0.0,
     "team_id": "brooklyn_phoeniks",
     "team_name": "Brooklyn Phoeniks",
@@ -180,19 +180,19 @@
     "warning_notes": ""
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
     "hard_cap_room": 320.0,
     "keeper_count": 5,
-    "legality_status": "Illegal",
+    "legality_status": "Valid",
     "manager_name": "Abel",
     "missing_submission": "No",
-    "non_rookie_keeper_count": 3,
+    "non_rookie_keeper_count": 4,
     "over_soft_cap_amount": 0.0,
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
     "total_salary": 162.0,
-    "warning_notes": "Fewer than 4 non-rookie keepers selected."
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",

@@ -62,7 +62,7 @@
         "minimum_salary_applied": false,
         "nba_team": "",
         "normalized_previous_salary": 1.0,
-        "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+        "notes": "",
         "player_aliases": [],
         "player_id": "466.p.10467",
         "player_key": "dylan_harper",
@@ -70,10 +70,10 @@
         "player_slug_display": "dylan_harper",
         "positions": "PG,SG,G,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 4.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "brooklyn_phoeniks",
         "team_name": "Brooklyn Phoeniks"
       },
@@ -577,7 +577,7 @@
     "verification_status": "Verified"
   },
   {
-    "discord_summary": "Salt Lake City Soakers keeper scenario Keepers (5): Trey Murphy III $88, Keyonte George $15, Naz Reid $54, Ace Bailey $4, Keaton Wagler $1 Total salary: $162 Soft cap room: $236 Hard cap room: $320 Luxury tax: $0 Bird Rights: None Auction eligible: No Status: Illegal Notes: Minimum 4 non-rookie keepers required.",
+    "discord_summary": "Salt Lake City Soakers keeper scenario Keepers (5): Trey Murphy III $88, Keyonte George $15, Naz Reid $54, Ace Bailey $4, Keaton Wagler $1 Total salary: $162 Soft cap room: $236 Hard cap room: $320 Luxury tax: $0 Bird Rights: None Auction eligible: Yes Status: Valid",
     "keepers": [
       {
         "approved_2026_salary": 4.0,
@@ -589,7 +589,7 @@
         "minimum_salary_applied": false,
         "nba_team": "",
         "normalized_previous_salary": 1.0,
-        "notes": "Rookie keeper does not count toward the 4 non-rookie minimum.",
+        "notes": "",
         "player_aliases": [],
         "player_id": "466.p.10462",
         "player_key": "ace_bailey",
@@ -597,10 +597,10 @@
         "player_slug_display": "ace_bailey",
         "positions": "SG,G,SF,PF,F,Util",
         "raw_previous_salary": 1.0,
-        "rookie_flag": true,
+        "rookie_flag": false,
         "salary_2025": 1.0,
         "salary_2026": 4.0,
-        "salary_source": "rookie_draft",
+        "salary_source": "waiver_or_faab_review",
         "team_id": "salt_lake_city_soakers",
         "team_name": "Salt Lake City Soakers"
       },

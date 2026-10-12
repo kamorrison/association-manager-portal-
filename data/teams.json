@@ -240,15 +240,15 @@
     "warning_count": 0
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_used": "No",
     "cap_space": 236.0,
-    "error_count": 1,
+    "error_count": 0,
     "hard_cap_room": 320.0,
     "luxury_tax_estimate": 0.0,
     "manager_name": "Abel",
     "missing_submission": "No",
-    "notes": "Fewer than 4 non-rookie keepers selected.",
+    "notes": "",
     "over_soft_cap_amount": 0.0,
     "projected_keeper_salary": 162.0,
     "roster_count": 12,
@@ -256,7 +256,7 @@
     "team_id": "salt_lake_city_soakers",
     "team_name": "Salt Lake City Soakers",
     "team_page": "teams/salt_lake_city_soakers.html",
-    "validation_status": "Illegal",
+    "validation_status": "Valid",
     "warning_count": 0
   },
   {

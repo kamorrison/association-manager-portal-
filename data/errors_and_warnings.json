@@ -1,15 +1,5 @@
 [
   {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Abel",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Error",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers"
-  },
-  {
     "explanation": "Player has a salary row but is not on the current roster export.",
     "issue_type": "salary_row_not_on_current_roster",
     "manager_name": "Jim",
