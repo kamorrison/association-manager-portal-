@@ -6,7 +6,7 @@
       "James Harden"
     ],
     "manager_name": "Jim",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "amherst_speedsters",
     "team_name": "Amherst Speedsters",
     "valid": "Yes"
@@ -65,7 +65,7 @@
     "declared_bird_rights_player": "",
     "eligible_players": [],
     "manager_name": "taylor",
-    "notes": "Missing keeper submission.",
+    "notes": "",
     "team_id": "flint_tropics",
     "team_name": "Flint Tropics",
     "valid": "Yes"
@@ -102,18 +102,18 @@
     "valid": "Yes"
   },
   {
-    "cap_impact": 0.0,
-    "declared_bird_rights_player": "",
+    "cap_impact": 122.0,
+    "declared_bird_rights_player": "Bam Adebayo",
     "eligible_players": [
       "Bam Adebayo",
       "Jaren Jackson Jr.",
       "Aaron Gordon"
     ],
     "manager_name": "Walson",
-    "notes": "Missing keeper submission.",
+    "notes": "Bird Rights over-cap path requires keeping the full 12-player roster.",
     "team_id": "kings_landing_kings",
     "team_name": "Kings Landing Kings",
-    "valid": "Yes"
+    "valid": "No"
   },
   {
     "cap_impact": 0.0,

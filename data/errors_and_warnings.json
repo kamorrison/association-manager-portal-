@@ -1,5 +1,15 @@
 [
   {
+    "explanation": "Bird Rights over-cap path requires keeping the full 12-player roster.",
+    "issue_type": "keeper_rule",
+    "manager_name": "Walson",
+    "player": "",
+    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
+    "severity": "Error",
+    "team_id": "kings_landing_kings",
+    "team_name": "Kings Landing Kings"
+  },
+  {
     "explanation": "Player has a salary row but is not on the current roster export.",
     "issue_type": "salary_row_not_on_current_roster",
     "manager_name": "Jim",
@@ -512,36 +522,6 @@
   {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
-    "manager_name": "Jim",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Jim",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Jim",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
     "manager_name": "Jorge S",
     "player": "",
     "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
@@ -612,36 +592,6 @@
   {
     "explanation": "Fewer than 4 keepers selected.",
     "issue_type": "keeper_rule",
-    "manager_name": "taylor",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "taylor",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "taylor",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
     "manager_name": "Dane",
     "player": "",
     "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
@@ -668,36 +618,6 @@
     "severity": "Warning",
     "team_id": "gotham_great_danes",
     "team_name": "Gotham Great Danes"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Walson",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Walson",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Walson",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings"
   },
   {
     "explanation": "Fewer than 4 keepers selected.",

@@ -1,18 +1,18 @@
 [
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 271.0,
+    "keeper_count": 5,
+    "legality_status": "Valid",
     "manager_name": "Jim",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 4,
     "over_soft_cap_amount": 0.0,
     "team_id": "amherst_speedsters",
     "team_name": "Amherst Speedsters",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 211.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
@@ -75,19 +75,19 @@
     "warning_notes": "Valid only through Bird Rights / full-roster over-cap path."
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 283.0,
+    "keeper_count": 8,
+    "legality_status": "Valid",
     "manager_name": "taylor",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 7,
     "over_soft_cap_amount": 0.0,
     "team_id": "flint_tropics",
     "team_name": "Flint Tropics",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 199.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "Yes",
@@ -121,18 +121,18 @@
   },
   {
     "auction_eligible": "No",
-    "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "bird_rights_declaration": "Bam Adebayo",
+    "hard_cap_room": 36.0,
+    "keeper_count": 10,
+    "legality_status": "Illegal",
     "manager_name": "Walson",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
-    "over_soft_cap_amount": 0.0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 9,
+    "over_soft_cap_amount": 48.0,
     "team_id": "kings_landing_kings",
     "team_name": "Kings Landing Kings",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 446.0,
+    "warning_notes": "Bird Rights over-cap path requires keeping the full 12-player roster."
   },
   {
     "auction_eligible": "No",
@@ -167,8 +167,8 @@
   {
     "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 326.0,
-    "keeper_count": 4,
+    "hard_cap_room": 325.0,
+    "keeper_count": 5,
     "legality_status": "Valid",
     "manager_name": "KnicksTape",
     "missing_submission": "No",
@@ -176,7 +176,7 @@
     "over_soft_cap_amount": 0.0,
     "team_id": "rucker_park_busters",
     "team_name": "Rucker Park Busters",
-    "total_salary": 156.0,
+    "total_salary": 157.0,
     "warning_notes": ""
   },
   {
