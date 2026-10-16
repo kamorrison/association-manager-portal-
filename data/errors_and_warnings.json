@@ -520,66 +520,6 @@
     "team_name": "Van City Grizzlies"
   },
   {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Jorge S",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "boston_bombers",
-    "team_name": "Boston Bombers"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Jorge S",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "boston_bombers",
-    "team_name": "Boston Bombers"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Jorge S",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "boston_bombers",
-    "team_name": "Boston Bombers"
-  },
-  {
-    "explanation": "Fewer than 4 keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Prasana",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress"
-  },
-  {
-    "explanation": "Fewer than 4 non-rookie keepers selected.",
-    "issue_type": "keeper_rule",
-    "manager_name": "Prasana",
-    "player": "",
-    "recommended_fix": "Adjust keeper count, Bird Rights declaration, or salary total.",
-    "severity": "Warning",
-    "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress"
-  },
-  {
-    "explanation": "No keeper submission file row found for this team.",
-    "issue_type": "missing_keeper_submission",
-    "manager_name": "Prasana",
-    "player": "",
-    "recommended_fix": "Collect and load a keeper submission row before final lock.",
-    "severity": "Warning",
-    "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress"
-  },
-  {
     "explanation": "Valid only through Bird Rights / full-roster over-cap path.",
     "issue_type": "keeper_rule",
     "manager_name": "Rick",

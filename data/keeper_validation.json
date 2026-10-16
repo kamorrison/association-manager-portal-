@@ -15,19 +15,19 @@
     "warning_notes": ""
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 416.0,
+    "keeper_count": 7,
+    "legality_status": "Valid",
     "manager_name": "Jorge S",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 6,
     "over_soft_cap_amount": 0.0,
     "team_id": "boston_bombers",
     "team_name": "Boston Bombers",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 66.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "Yes",
@@ -45,19 +45,19 @@
     "warning_notes": ""
   },
   {
-    "auction_eligible": "No",
+    "auction_eligible": "Yes",
     "bird_rights_declaration": "",
-    "hard_cap_room": 482.0,
-    "keeper_count": 0,
-    "legality_status": "Warning",
+    "hard_cap_room": 176.0,
+    "keeper_count": 9,
+    "legality_status": "Valid",
     "manager_name": "Prasana",
-    "missing_submission": "Yes",
-    "non_rookie_keeper_count": 0,
+    "missing_submission": "No",
+    "non_rookie_keeper_count": 8,
     "over_soft_cap_amount": 0.0,
     "team_id": "chennai_steveblakeexpress",
     "team_name": "Chennai SteveBlakeExpress",
-    "total_salary": 0.0,
-    "warning_notes": "Missing keeper submission."
+    "total_salary": 306.0,
+    "warning_notes": ""
   },
   {
     "auction_eligible": "No",
