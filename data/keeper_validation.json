@@ -122,17 +122,17 @@
   {
     "auction_eligible": "No",
     "bird_rights_declaration": "Bam Adebayo",
-    "hard_cap_room": 36.0,
-    "keeper_count": 10,
-    "legality_status": "Illegal",
+    "hard_cap_room": 1.0,
+    "keeper_count": 12,
+    "legality_status": "Warning",
     "manager_name": "Walson",
     "missing_submission": "No",
-    "non_rookie_keeper_count": 9,
-    "over_soft_cap_amount": 48.0,
+    "non_rookie_keeper_count": 11,
+    "over_soft_cap_amount": 83.0,
     "team_id": "kings_landing_kings",
     "team_name": "Kings Landing Kings",
-    "total_salary": 446.0,
-    "warning_notes": "Bird Rights over-cap path requires keeping the full 12-player roster."
+    "total_salary": 481.0,
+    "warning_notes": "Valid only through Bird Rights / full-roster over-cap path."
   },
   {
     "auction_eligible": "Yes",

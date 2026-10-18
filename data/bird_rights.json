@@ -110,10 +110,10 @@
       "Aaron Gordon"
     ],
     "manager_name": "Walson",
-    "notes": "Bird Rights over-cap path requires keeping the full 12-player roster.",
+    "notes": "Valid only through Bird Rights / full-roster over-cap path.",
     "team_id": "kings_landing_kings",
     "team_name": "Kings Landing Kings",
-    "valid": "No"
+    "valid": "Yes"
   },
   {
     "cap_impact": 0.0,

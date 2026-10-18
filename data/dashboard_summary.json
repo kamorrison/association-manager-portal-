@@ -52,11 +52,11 @@
   {
     "label": "League Warning Count",
     "metric": "league_warning_count",
-    "value": 1
+    "value": 2
   },
   {
     "label": "League Error Count",
     "metric": "league_error_count",
-    "value": 1
+    "value": 0
   }
 ]
