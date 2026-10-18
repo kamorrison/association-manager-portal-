@@ -32,12 +32,12 @@
   {
     "label": "Valid Keeper Submissions",
     "metric": "valid_keeper_submissions",
-    "value": 12
+    "value": 14
   },
   {
     "label": "Missing Keeper Submissions",
     "metric": "missing_keeper_submissions",
-    "value": 2
+    "value": 0
   },
   {
     "label": "Rookie Submissions Complete",
@@ -52,7 +52,7 @@
   {
     "label": "League Warning Count",
     "metric": "league_warning_count",
-    "value": 7
+    "value": 1
   },
   {
     "label": "League Error Count",
