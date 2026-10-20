@@ -15,9 +15,19 @@
     "value": 16
   },
   {
-    "label": "Players Under Review",
-    "metric": "players_under_review",
-    "value": 268
+    "label": "Players Under Contract",
+    "metric": "players_under_contract",
+    "value": 192
+  },
+  {
+    "label": "League Payroll",
+    "metric": "league_payroll",
+    "value": 6260.0
+  },
+  {
+    "label": "League FAAB Remaining",
+    "metric": "league_faab",
+    "value": 246.0
   },
   {
     "label": "Teams Over Soft Cap",
@@ -27,36 +37,6 @@
   {
     "label": "Teams Over Hard Cap",
     "metric": "teams_over_hard_cap",
-    "value": 0
-  },
-  {
-    "label": "Valid Keeper Submissions",
-    "metric": "valid_keeper_submissions",
-    "value": 14
-  },
-  {
-    "label": "Missing Keeper Submissions",
-    "metric": "missing_keeper_submissions",
-    "value": 0
-  },
-  {
-    "label": "Rookie Submissions Complete",
-    "metric": "rookie_submissions_complete",
-    "value": 16
-  },
-  {
-    "label": "Rookie Submissions Incomplete",
-    "metric": "rookie_submissions_incomplete",
-    "value": 0
-  },
-  {
-    "label": "League Warning Count",
-    "metric": "league_warning_count",
-    "value": 2
-  },
-  {
-    "label": "League Error Count",
-    "metric": "league_error_count",
     "value": 0
   }
 ]
