@@ -17,22 +17,27 @@
   {
     "label": "Players Under Contract",
     "metric": "players_under_contract",
-    "value": 192
+    "value": 202
+  },
+  {
+    "label": "Waiver / FA Pickups",
+    "metric": "waiver_pickups",
+    "value": 55
   },
   {
     "label": "League Payroll",
     "metric": "league_payroll",
-    "value": 6260.0
+    "value": 6250.0
   },
   {
     "label": "League FAAB Remaining",
     "metric": "league_faab",
-    "value": 246.0
+    "value": 188.0
   },
   {
     "label": "Teams Over Soft Cap",
     "metric": "teams_over_soft_cap",
-    "value": 2
+    "value": 6
   },
   {
     "label": "Teams Over Hard Cap",

@@ -11,7 +11,7 @@
     <div class="hero">
       <h1>Association Team Management Board</h1>
       <p class="meta">Current team payroll and cap review</p>
-      <div class="nav"><a href="index.html">League Overview</a><a href="rosters.html">In-Season Rosters</a><a href="team_management.html">Team Management</a><a href="keeper_decisions.html">Keeper Decisions</a><a href="bird_rights.html">Bird Rights</a><a href="rookie_draft.html">Rookie Draft</a><a href="trade_log.html">Trade Log</a><a href="errors_and_warnings.html">Errors and Warnings</a><a href="teams/index.html">Team Pages</a></div>
+      <div class="nav"><a href="index.html">League Overview</a><a href="rosters.html">In-Season Rosters</a><a href="waivers.html">Waiver Pickups</a><a href="team_management.html">Team Management</a><a href="keeper_decisions.html">Keeper Decisions</a><a href="bird_rights.html">Bird Rights</a><a href="rookie_draft.html">Rookie Draft</a><a href="trade_log.html">Trade Log</a><a href="errors_and_warnings.html">Errors and Warnings</a><a href="teams/index.html">Team Pages</a></div>
     </div>
     
     <div class="section rules-reference"><div class="rules-reference-header"><h2>Rules Quick Reference</h2><a href="https://docs.google.com/document/d/1OHREwHtEGRoThy2lnpuR-MsUd6BjUxCKE1hUPWliq0k/edit" target="_blank" rel="noopener noreferrer">Read the full Association CBA</a></div><div class="rules-reference-grid"><div class="rule-card"><h3>Roster and auction</h3><ul><li>Each team carries 12 players. Keeping all 12 forfeits participation in the free-agency auction.</li><li>Only players selected in the 2026 Association rookie draft are rookies for this keeper cycle; players selected in 2025 are now non-rookies.</li><li>A selected 2026 rookie has a $1 keeper salary and uses one of the 12 roster spots.</li><li>Auction funds left after the draft become the season FAAB budget: soft cap minus team salary.</li></ul></div><div class="rule-card"><h3>Player values and transactions</h3><ul><li>Drafted player values remain with the player for the season, even after a waiver.</li><li>Undrafted waiver players use their winning FAAB price; rookies enter at $1.</li><li>Teams may trade to reduce tax exposure but may not waive players to avoid tax.</li></ul></div></div></div>
@@ -20,20 +20,20 @@
       <p class="section-note">Review each franchise’s current payroll, soft- and hard-cap room, remaining FAAB, luxury-tax estimate, and opening roster composition.</p>
       <div class="filter-bar" data-filter-group="teams"><label>Team<select data-filter-scope="teams" data-filter-key="team"><option value="">All</option><option value="amherst_speedsters">Amherst Speedsters</option><option value="boston_bombers">Boston Bombers</option><option value="brooklyn_phoeniks">Brooklyn Phoeniks</option><option value="chennai_steveblakeexpress">Chennai SteveBlakeExpress</option><option value="chicago_sunroofers">Chicago Sunroofers</option><option value="flint_tropics">Flint Tropics</option><option value="frankfurt_17ers">Frankfurt 17ers</option><option value="gotham_great_danes">Gotham Great Danes</option><option value="kings_landing_kings">Kings Landing Kings</option><option value="miami_moneymen">Miami Moneymen</option><option value="ny_knickerbockers">NY Knickerbockers</option><option value="rucker_park_busters">Rucker Park Busters</option><option value="salt_lake_city_soakers">Salt Lake City Soakers</option><option value="syracuse_sparrows">Syracuse Sparrows</option><option value="titanes_de_san_juan">Titanes de San Juan</option><option value="van_city_grizzlies">Van City Grizzlies</option></select></label><label>Cap Status<select data-filter-scope="teams" data-filter-key="status"><option value="">All</option><option value="under_soft_cap">Under Soft Cap</option><option value="over_soft_cap">Over Soft Cap</option><option value="hard_cap_issue">Hard Cap Issue</option></select></label><label>Over Soft Cap<select data-filter-scope="teams" data-filter-key="over_soft_cap"><option value="">All</option><option value="yes">Yes</option><option value="no">No</option></select></label><label>Missing Submission<select data-filter-scope="teams" data-filter-key="missing_submission"><option value="">All</option><option value="yes">Yes</option><option value="no">No</option></select></label><label>Illegal Roster<select data-filter-scope="teams" data-filter-key="illegal_roster"><option value="">All</option><option value="yes">Yes</option><option value="no">No</option></select></label></div>
       <div class="team-grid">
-            <div class="team-card" data-filter-target="teams" data-team="amherst_speedsters" data-status="under_soft_cap" data-over_soft_cap="no" data-missing_submission="no" data-illegal_roster="no">
+            <div class="team-card" data-filter-target="teams" data-team="amherst_speedsters" data-status="over_soft_cap" data-over_soft_cap="yes" data-missing_submission="no" data-illegal_roster="no">
               <h3><a href="teams/amherst_speedsters.html">Amherst Speedsters</a></h3>
               <p class="small-note">Jim</p>
-              <p><span class="pill status-valid">Under Soft Cap</span></p>
+              <p><span class="pill status-warning">Over Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>5</td></tr>
                   <tr><th>UFA Additions</th><td>7</td></tr>
-                  <tr><th>Current Payroll</th><td>$387</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$11</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$95</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$11</td></tr>
-                  <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
+                  <tr><th>Current Payroll</th><td>$412</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$-14</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$70</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$0</td></tr>
+                  <tr><th>Luxury Tax Estimate</th><td>$1.40</td></tr>
                 </tbody>
               </table>
               <p class="small-note">—</p>
@@ -45,12 +45,12 @@
               <p><span class="pill status-valid">Under Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>7</td></tr>
                   <tr><th>UFA Additions</th><td>5</td></tr>
-                  <tr><th>Current Payroll</th><td>$397</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$1</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$85</td></tr>
+                  <tr><th>Current Payroll</th><td>$398</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$0</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$84</td></tr>
                   <tr><th>FAAB Remaining</th><td>$1</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
@@ -64,12 +64,12 @@
               <p><span class="pill status-valid">Under Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>9</td></tr>
                   <tr><th>UFA Additions</th><td>3</td></tr>
-                  <tr><th>Current Payroll</th><td>$381</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$17</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$101</td></tr>
+                  <tr><th>Current Payroll</th><td>$382</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$16</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$100</td></tr>
                   <tr><th>FAAB Remaining</th><td>$17</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
@@ -83,13 +83,13 @@
               <p><span class="pill status-valid">Under Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>9</td></tr>
                   <tr><th>UFA Additions</th><td>3</td></tr>
-                  <tr><th>Current Payroll</th><td>$356</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$42</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$126</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$42</td></tr>
+                  <tr><th>Current Payroll</th><td>$359</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$39</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$123</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$39</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
               </table>
@@ -121,12 +121,12 @@
               <p><span class="pill status-valid">Under Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>8</td></tr>
                   <tr><th>UFA Additions</th><td>4</td></tr>
-                  <tr><th>Current Payroll</th><td>$392</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$6</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$90</td></tr>
+                  <tr><th>Current Payroll</th><td>$369</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$29</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$113</td></tr>
                   <tr><th>FAAB Remaining</th><td>$6</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
@@ -143,10 +143,10 @@
                   <tr><th>Roster Count</th><td>12</td></tr>
                   <tr><th>Opening Keepers</th><td>7</td></tr>
                   <tr><th>UFA Additions</th><td>5</td></tr>
-                  <tr><th>Current Payroll</th><td>$349</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$49</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$133</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$49</td></tr>
+                  <tr><th>Current Payroll</th><td>$362</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$36</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$120</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$29</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
               </table>
@@ -162,10 +162,10 @@
                   <tr><th>Roster Count</th><td>12</td></tr>
                   <tr><th>Opening Keepers</th><td>4</td></tr>
                   <tr><th>UFA Additions</th><td>8</td></tr>
-                  <tr><th>Current Payroll</th><td>$395</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$3</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$87</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$3</td></tr>
+                  <tr><th>Current Payroll</th><td>$384</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$14</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$98</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$0</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
               </table>
@@ -210,39 +210,39 @@
               <p class="small-note">—</p>
             </div>
             
-            <div class="team-card" data-filter-target="teams" data-team="ny_knickerbockers" data-status="under_soft_cap" data-over_soft_cap="no" data-missing_submission="no" data-illegal_roster="no">
+            <div class="team-card" data-filter-target="teams" data-team="ny_knickerbockers" data-status="over_soft_cap" data-over_soft_cap="yes" data-missing_submission="no" data-illegal_roster="no">
               <h3><a href="teams/ny_knickerbockers.html">NY Knickerbockers</a></h3>
               <p class="small-note">4EVRL8</p>
-              <p><span class="pill status-valid">Under Soft Cap</span></p>
+              <p><span class="pill status-warning">Over Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>6</td></tr>
                   <tr><th>UFA Additions</th><td>6</td></tr>
-                  <tr><th>Current Payroll</th><td>$390</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$8</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$92</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$8</td></tr>
-                  <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
+                  <tr><th>Current Payroll</th><td>$399</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$-1</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$83</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$0</td></tr>
+                  <tr><th>Luxury Tax Estimate</th><td>$0.10</td></tr>
                 </tbody>
               </table>
               <p class="small-note">—</p>
             </div>
             
-            <div class="team-card" data-filter-target="teams" data-team="rucker_park_busters" data-status="under_soft_cap" data-over_soft_cap="no" data-missing_submission="no" data-illegal_roster="no">
+            <div class="team-card" data-filter-target="teams" data-team="rucker_park_busters" data-status="over_soft_cap" data-over_soft_cap="yes" data-missing_submission="no" data-illegal_roster="no">
               <h3><a href="teams/rucker_park_busters.html">Rucker Park Busters</a></h3>
               <p class="small-note">KnicksTape</p>
-              <p><span class="pill status-valid">Under Soft Cap</span></p>
+              <p><span class="pill status-warning">Over Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>5</td></tr>
                   <tr><th>UFA Additions</th><td>7</td></tr>
-                  <tr><th>Current Payroll</th><td>$396</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$2</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$86</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$2</td></tr>
-                  <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
+                  <tr><th>Current Payroll</th><td>$408</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$-10</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$74</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$0</td></tr>
+                  <tr><th>Luxury Tax Estimate</th><td>$1</td></tr>
                 </tbody>
               </table>
               <p class="small-note">—</p>
@@ -257,10 +257,10 @@
                   <tr><th>Roster Count</th><td>12</td></tr>
                   <tr><th>Opening Keepers</th><td>5</td></tr>
                   <tr><th>UFA Additions</th><td>7</td></tr>
-                  <tr><th>Current Payroll</th><td>$368</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$30</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$114</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$30</td></tr>
+                  <tr><th>Current Payroll</th><td>$329</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$69</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$153</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$24</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
               </table>
@@ -276,9 +276,9 @@
                   <tr><th>Roster Count</th><td>12</td></tr>
                   <tr><th>Opening Keepers</th><td>6</td></tr>
                   <tr><th>UFA Additions</th><td>6</td></tr>
-                  <tr><th>Current Payroll</th><td>$344</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$54</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$138</td></tr>
+                  <tr><th>Current Payroll</th><td>$339</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$59</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$143</td></tr>
                   <tr><th>FAAB Remaining</th><td>$54</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
@@ -286,20 +286,20 @@
               <p class="small-note">—</p>
             </div>
             
-            <div class="team-card" data-filter-target="teams" data-team="titanes_de_san_juan" data-status="under_soft_cap" data-over_soft_cap="no" data-missing_submission="no" data-illegal_roster="no">
+            <div class="team-card" data-filter-target="teams" data-team="titanes_de_san_juan" data-status="over_soft_cap" data-over_soft_cap="yes" data-missing_submission="no" data-illegal_roster="no">
               <h3><a href="teams/titanes_de_san_juan.html">Titanes de San Juan</a></h3>
               <p class="small-note">luifeton roman</p>
-              <p><span class="pill status-valid">Under Soft Cap</span></p>
+              <p><span class="pill status-warning">Over Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>13</td></tr>
                   <tr><th>Opening Keepers</th><td>6</td></tr>
                   <tr><th>UFA Additions</th><td>6</td></tr>
-                  <tr><th>Current Payroll</th><td>$397</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$1</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$85</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$1</td></tr>
-                  <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
+                  <tr><th>Current Payroll</th><td>$402</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$-4</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$80</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$0</td></tr>
+                  <tr><th>Luxury Tax Estimate</th><td>$0.40</td></tr>
                 </tbody>
               </table>
               <p class="small-note">—</p>
@@ -311,13 +311,13 @@
               <p><span class="pill status-valid">Under Soft Cap</span></p>
               <table>
                 <tbody>
-                  <tr><th>Roster Count</th><td>12</td></tr>
+                  <tr><th>Roster Count</th><td>14</td></tr>
                   <tr><th>Opening Keepers</th><td>4</td></tr>
                   <tr><th>UFA Additions</th><td>8</td></tr>
-                  <tr><th>Current Payroll</th><td>$379</td></tr>
-                  <tr><th>Soft Cap Room</th><td>$19</td></tr>
-                  <tr><th>Hard Cap Room</th><td>$103</td></tr>
-                  <tr><th>FAAB Remaining</th><td>$19</td></tr>
+                  <tr><th>Current Payroll</th><td>$378</td></tr>
+                  <tr><th>Soft Cap Room</th><td>$20</td></tr>
+                  <tr><th>Hard Cap Room</th><td>$104</td></tr>
+                  <tr><th>FAAB Remaining</th><td>$15</td></tr>
                   <tr><th>Luxury Tax Estimate</th><td>$0</td></tr>
                 </tbody>
               </table>

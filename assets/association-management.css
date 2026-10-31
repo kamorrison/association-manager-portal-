@@ -130,6 +130,14 @@ body {
   color: #1e3a8a;
   background: #dbeafe;
 }
+.acquisition-waiver {
+  color: #7c2d12;
+  background: #ffedd5;
+}
+.acquisition-free-agent {
+  color: #5b21b6;
+  background: #ede9fe;
+}
 .archive-details {
   border: 1px solid #d6dee6;
   border-radius: 14px;
