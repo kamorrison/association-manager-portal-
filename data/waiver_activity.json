@@ -1,5 +1,6 @@
 [
   {
+    "dead_cap_added": "6",
     "dropped_players": "Sandro Mamukelashvili",
     "faab_used": "0",
     "nba_team": "LAC",
@@ -18,6 +19,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "SAC",
@@ -36,6 +38,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "LAL",
@@ -54,6 +57,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Trevon Brazile",
     "faab_used": "0",
     "nba_team": "LAL",
@@ -72,6 +76,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "4",
     "dropped_players": "Gui Santos",
     "faab_used": "0",
     "nba_team": "CHI",
@@ -90,6 +95,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "13",
     "dropped_players": "Jakob Poeltl",
     "faab_used": "1",
     "nba_team": "MIN",
@@ -108,6 +114,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Ryan Kalkbrenner",
     "faab_used": "1",
     "nba_team": "DET",
@@ -126,6 +133,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "32",
     "dropped_players": "Andrew Wiggins",
     "faab_used": "3",
     "nba_team": "SAS",
@@ -144,6 +152,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "11",
     "dropped_players": "DeMar DeRozan",
     "faab_used": "3",
     "nba_team": "DAL",
@@ -162,6 +171,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "GG Jackson",
     "faab_used": "12",
     "nba_team": "MIN",
@@ -180,6 +190,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Hannes Steinbach",
     "faab_used": "30",
     "nba_team": "NOP",
@@ -198,6 +209,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "IND",
@@ -216,6 +228,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "6",
     "dropped_players": "Sandro Mamukelashvili",
     "faab_used": "0",
     "nba_team": "SAC",
@@ -234,6 +247,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "5",
     "dropped_players": "Rui Hachimura",
     "faab_used": "1",
     "nba_team": "OKC",
@@ -252,6 +266,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Yves Missi",
     "faab_used": "2",
     "nba_team": "TOR",
@@ -270,6 +285,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "2",
     "nba_team": "ATL",
@@ -288,6 +304,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "3",
     "nba_team": "BKN",
@@ -306,6 +323,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "27",
     "nba_team": "SAC",
@@ -324,6 +342,7 @@
     "value_source": "Opening keeper/UFA value"
   },
   {
+    "dead_cap_added": "29",
     "dropped_players": "Keegan Murray",
     "faab_used": "0",
     "nba_team": "DEN",
@@ -342,6 +361,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Taylor Hendricks",
     "faab_used": "0",
     "nba_team": "LAC",
@@ -360,6 +380,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Jalen Smith",
     "faab_used": "0",
     "nba_team": "DET",
@@ -378,6 +399,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Anfernee Simons",
     "faab_used": "3",
     "nba_team": "CHA",
@@ -396,6 +418,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Ben Simmons",
     "faab_used": "12",
     "nba_team": "LAC",
@@ -414,6 +437,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Mitchell Robinson",
     "faab_used": "0",
     "nba_team": "DAL",
@@ -432,6 +456,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Labaron Philon Jr.",
     "faab_used": "1",
     "nba_team": "MEM",
@@ -450,6 +475,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "5",
     "dropped_players": "Kevin Porter Jr.",
     "faab_used": "5",
     "nba_team": "SAS",
@@ -468,6 +494,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Dillon Brooks",
     "faab_used": "5",
     "nba_team": "MIL",
@@ -486,6 +513,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "NOP",
@@ -504,6 +532,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "DET",
@@ -522,6 +551,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Daniel Gafford",
     "faab_used": "0",
     "nba_team": "SAC",
@@ -540,6 +570,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "CHI",
@@ -558,6 +589,7 @@
     "value_source": "Free-agent minimum"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Robert Williams III",
     "faab_used": "1",
     "nba_team": "DEN",
@@ -576,6 +608,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "5",
     "nba_team": "GSW",
@@ -594,6 +627,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "1",
     "dropped_players": "Tre Jones",
     "faab_used": "5",
     "nba_team": "DAL",
@@ -612,6 +646,7 @@
     "value_source": "Winning FAAB bid"
   },
   {
+    "dead_cap_added": "0",
     "dropped_players": "",
     "faab_used": "0",
     "nba_team": "CHA",
@@ -626,366 +661,6 @@
     "team_name": "NY Knickerbockers",
     "timestamp": "10/16/2026 12:41 AM",
     "transaction_id": "478.l.11097.tr.87",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "MEM",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10592",
-    "player_key": "cameron_boozer",
-    "player_name": "Cameron Boozer",
-    "player_value": "1",
-    "positions": "PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "boston_bombers",
-    "team_name": "Boston Bombers",
-    "timestamp": "10/07/2026 06:15 AM",
-    "transaction_id": "478.l.11097.tr.46",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "WAS",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10599",
-    "player_key": "aj_dybantsa",
-    "player_name": "AJ Dybantsa",
-    "player_value": "1",
-    "positions": "SF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "kings_landing_kings",
-    "team_name": "Kings Landing Kings",
-    "timestamp": "10/07/2026 06:15 AM",
-    "transaction_id": "478.l.11097.tr.45",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "CHI",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10595",
-    "player_key": "caleb_wilson",
-    "player_name": "Caleb Wilson",
-    "player_value": "1",
-    "positions": "PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "miami_moneymen",
-    "team_name": "Miami Moneymen",
-    "timestamp": "10/07/2026 06:14 AM",
-    "transaction_id": "478.l.11097.tr.44",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "UTA",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10590",
-    "player_key": "darryn_peterson",
-    "player_name": "Darryn Peterson",
-    "player_value": "1",
-    "positions": "SG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "chennai_steveblakeexpress",
-    "team_name": "Chennai SteveBlakeExpress",
-    "timestamp": "10/07/2026 06:13 AM",
-    "transaction_id": "478.l.11097.tr.43",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "LAC",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10585",
-    "player_key": "keaton_wagler",
-    "player_name": "Keaton Wagler",
-    "player_value": "1",
-    "positions": "SG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers",
-    "timestamp": "10/07/2026 06:13 AM",
-    "transaction_id": "478.l.11097.tr.42",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "BKN",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10588",
-    "player_key": "mikel_brown_jr",
-    "player_name": "Mikel Brown Jr.",
-    "player_value": "1",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks",
-    "timestamp": "10/07/2026 06:12 AM",
-    "transaction_id": "478.l.11097.tr.41",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "SAC",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10582",
-    "player_key": "darius_acuff_jr",
-    "player_name": "Darius Acuff Jr.",
-    "player_value": "1",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "ny_knickerbockers",
-    "team_name": "NY Knickerbockers",
-    "timestamp": "10/07/2026 06:10 AM",
-    "transaction_id": "478.l.11097.tr.40",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "GSW",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10571",
-    "player_key": "yaxel_lendeborg",
-    "player_name": "Yaxel Lendeborg",
-    "player_value": "1",
-    "positions": "PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics",
-    "timestamp": "10/07/2026 06:10 AM",
-    "transaction_id": "478.l.11097.tr.39",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "ATL",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10574",
-    "player_key": "kingston_flemings",
-    "player_name": "Kingston Flemings",
-    "player_value": "1",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "frankfurt_17ers",
-    "team_name": "Frankfurt 17ers",
-    "timestamp": "10/07/2026 06:09 AM",
-    "transaction_id": "478.l.11097.tr.38",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "OKC",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10579",
-    "player_key": "aday_mara",
-    "player_name": "Aday Mara",
-    "player_value": "1",
-    "positions": "C",
-    "source": "Yahoo Fantasy API",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers",
-    "timestamp": "10/07/2026 06:08 AM",
-    "transaction_id": "478.l.11097.tr.37",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "DAL",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10572",
-    "player_key": "morez_johnson_jr",
-    "player_name": "Morez Johnson Jr.",
-    "player_value": "1",
-    "positions": "PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "brooklyn_phoeniks",
-    "team_name": "Brooklyn Phoeniks",
-    "timestamp": "10/07/2026 06:06 AM",
-    "transaction_id": "478.l.11097.tr.36",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "MIL",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10581",
-    "player_key": "nate_ament",
-    "player_name": "Nate Ament",
-    "player_value": "1",
-    "positions": "SF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "titanes_de_san_juan",
-    "team_name": "Titanes de San Juan",
-    "timestamp": "10/07/2026 06:04 AM",
-    "transaction_id": "478.l.11097.tr.35",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "MIL",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10576",
-    "player_key": "brayden_burries",
-    "player_name": "Brayden Burries",
-    "player_value": "1",
-    "positions": "SG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters",
-    "timestamp": "10/07/2026 06:02 AM",
-    "transaction_id": "478.l.11097.tr.34",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "PHI",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10598",
-    "player_key": "labaron_philon_jr",
-    "player_name": "Labaron Philon Jr.",
-    "player_value": "1",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "rucker_park_busters",
-    "team_name": "Rucker Park Busters",
-    "timestamp": "10/07/2026 06:02 AM",
-    "transaction_id": "478.l.11097.tr.33",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "CHA",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10577",
-    "player_key": "hannes_steinbach",
-    "player_name": "Hannes Steinbach",
-    "player_value": "1",
-    "positions": "PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "chicago_sunroofers",
-    "team_name": "Chicago Sunroofers",
-    "timestamp": "10/07/2026 06:01 AM",
-    "transaction_id": "478.l.11097.tr.32",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "CHA",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.10575",
-    "player_key": "christian_anderson",
-    "player_name": "Christian Anderson",
-    "player_value": "1",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies",
-    "timestamp": "10/07/2026 06:01 AM",
-    "transaction_id": "478.l.11097.tr.31",
-    "transaction_type": "add",
-    "value_source": "Free-agent minimum"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "POR",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.6401",
-    "player_key": "deni_avdija",
-    "player_name": "Deni Avdija",
-    "player_value": "40",
-    "positions": "SG,SF,PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "flint_tropics",
-    "team_name": "Flint Tropics",
-    "timestamp": "10/07/2026 06:00 AM",
-    "transaction_id": "478.l.11097.tr.30",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "DAL",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.4840",
-    "player_key": "kyrie_irving",
-    "player_name": "Kyrie Irving",
-    "player_value": "40",
-    "positions": "PG",
-    "source": "Yahoo Fantasy API",
-    "team_id": "van_city_grizzlies",
-    "team_name": "Van City Grizzlies",
-    "timestamp": "10/07/2026 06:00 AM",
-    "transaction_id": "478.l.11097.tr.28",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "NOP",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.6559",
-    "player_key": "trey_murphy_iii",
-    "player_name": "Trey Murphy III",
-    "player_value": "88",
-    "positions": "SG,SF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "salt_lake_city_soakers",
-    "team_name": "Salt Lake City Soakers",
-    "timestamp": "10/07/2026 05:59 AM",
-    "transaction_id": "478.l.11097.tr.26",
-    "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
-  },
-  {
-    "dropped_players": "",
-    "faab_used": "0",
-    "nba_team": "BOS",
-    "pickup_source": "Free Agent",
-    "player_id": "478.p.4725",
-    "player_key": "paul_george",
-    "player_name": "Paul George",
-    "player_value": "30",
-    "positions": "SF,PF",
-    "source": "Yahoo Fantasy API",
-    "team_id": "amherst_speedsters",
-    "team_name": "Amherst Speedsters",
-    "timestamp": "10/07/2026 05:58 AM",
-    "transaction_id": "478.l.11097.tr.25",
     "transaction_type": "add",
     "value_source": "Opening keeper/UFA value"
   }
