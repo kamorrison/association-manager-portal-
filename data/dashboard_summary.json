@@ -27,7 +27,7 @@
   {
     "label": "League Cap Charges",
     "metric": "league_payroll",
-    "value": 6430.0
+    "value": 6459.0
   },
   {
     "label": "League Dead Cap",
@@ -47,6 +47,6 @@
   {
     "label": "Teams Over Hard Cap",
     "metric": "teams_over_hard_cap",
-    "value": 0
+    "value": 1
   }
 ]

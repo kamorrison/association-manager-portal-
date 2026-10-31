@@ -16,7 +16,8 @@
     "timestamp": "10/31/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.137",
     "transaction_type": "add/drop",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "5",
+    "value_source": "Original UFA value"
   },
   {
     "dead_cap_added": "0",
@@ -35,7 +36,8 @@
     "timestamp": "10/31/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.136",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "0",
@@ -54,7 +56,8 @@
     "timestamp": "10/31/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.135",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -73,7 +76,8 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.133",
     "transaction_type": "add/drop",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "6",
+    "value_source": "Original UFA value"
   },
   {
     "dead_cap_added": "4",
@@ -92,7 +96,8 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.132",
     "transaction_type": "add/drop",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "13",
@@ -111,6 +116,7 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.131",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -130,6 +136,7 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.130",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -149,6 +156,7 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.129",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -160,7 +168,7 @@
     "player_id": "478.p.6226",
     "player_key": "daniel_gafford",
     "player_name": "Daniel Gafford",
-    "player_value": "1",
+    "player_value": "3",
     "positions": "C",
     "source": "Yahoo Fantasy API",
     "team_id": "salt_lake_city_soakers",
@@ -168,7 +176,8 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.128",
     "transaction_type": "add/drop",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "1",
+    "value_source": "Winning FAAB bid"
   },
   {
     "dead_cap_added": "1",
@@ -187,6 +196,7 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.127",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -198,7 +208,7 @@
     "player_id": "478.p.10289",
     "player_key": "yves_missi",
     "player_name": "Yves Missi",
-    "player_value": "1",
+    "player_value": "30",
     "positions": "C",
     "source": "Yahoo Fantasy API",
     "team_id": "ny_knickerbockers",
@@ -206,7 +216,8 @@
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.126",
     "transaction_type": "add/drop",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "1",
+    "value_source": "Winning FAAB bid"
   },
   {
     "dead_cap_added": "0",
@@ -225,7 +236,8 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.121",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "6",
@@ -244,7 +256,8 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.120",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "5",
@@ -263,6 +276,7 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.119",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -282,6 +296,7 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.118",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -301,6 +316,7 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.117",
     "transaction_type": "add",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -320,6 +336,7 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.116",
     "transaction_type": "add",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -331,7 +348,7 @@
     "player_id": "478.p.6694",
     "player_key": "keegan_murray",
     "player_name": "Keegan Murray",
-    "player_value": "29",
+    "player_value": "27",
     "positions": "SF,PF",
     "source": "Yahoo Fantasy API",
     "team_id": "amherst_speedsters",
@@ -339,7 +356,8 @@
     "timestamp": "10/28/2026 04:21 AM",
     "transaction_id": "478.l.11097.tr.115",
     "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "0",
+    "value_source": "Winning FAAB bid"
   },
   {
     "dead_cap_added": "29",
@@ -358,7 +376,8 @@
     "timestamp": "10/25/2026 04:17 AM",
     "transaction_id": "478.l.11097.tr.111",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -377,7 +396,8 @@
     "timestamp": "10/25/2026 04:17 AM",
     "transaction_id": "478.l.11097.tr.110",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -396,7 +416,8 @@
     "timestamp": "10/25/2026 04:17 AM",
     "transaction_id": "478.l.11097.tr.109",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -415,6 +436,7 @@
     "timestamp": "10/25/2026 04:17 AM",
     "transaction_id": "478.l.11097.tr.108",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -434,6 +456,7 @@
     "timestamp": "10/25/2026 04:17 AM",
     "transaction_id": "478.l.11097.tr.107",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -453,7 +476,8 @@
     "timestamp": "10/24/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.105",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -472,6 +496,7 @@
     "timestamp": "10/24/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.104",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -491,6 +516,7 @@
     "timestamp": "10/24/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.103",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -510,6 +536,7 @@
     "timestamp": "10/24/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.102",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -529,7 +556,8 @@
     "timestamp": "10/23/2026 04:14 AM",
     "transaction_id": "478.l.11097.tr.101",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "0",
@@ -548,7 +576,8 @@
     "timestamp": "10/23/2026 04:14 AM",
     "transaction_id": "478.l.11097.tr.100",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -567,7 +596,8 @@
     "timestamp": "10/21/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.97",
     "transaction_type": "add/drop",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "0",
@@ -586,7 +616,8 @@
     "timestamp": "10/21/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.96",
     "transaction_type": "add",
-    "value_source": "Free-agent minimum"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   },
   {
     "dead_cap_added": "1",
@@ -605,6 +636,7 @@
     "timestamp": "10/21/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.95",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -624,6 +656,7 @@
     "timestamp": "10/21/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.94",
     "transaction_type": "add",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -643,6 +676,7 @@
     "timestamp": "10/21/2026 04:15 AM",
     "transaction_id": "478.l.11097.tr.93",
     "transaction_type": "add/drop",
+    "ufa_value": "0",
     "value_source": "Winning FAAB bid"
   },
   {
@@ -662,6 +696,7 @@
     "timestamp": "10/16/2026 12:41 AM",
     "transaction_id": "478.l.11097.tr.87",
     "transaction_type": "add",
-    "value_source": "Opening keeper/UFA value"
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
   }
 ]

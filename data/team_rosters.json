@@ -347,18 +347,18 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Opening keeper/UFA value",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "amherst_speedsters",
         "team_name": "Amherst Speedsters",
         "ufa_pick": null,
-        "value_source": "Opening keeper/UFA value"
+        "value_source": "Waiver/free-agent minimum"
       },
       {
         "acquisition_timestamp": "10/28/2026 04:21 AM",
         "acquisition_transaction_id": "478.l.11097.tr.115",
         "acquisition_type": "Waiver",
-        "approved_2026_salary": 29.0,
+        "approved_2026_salary": 27.0,
         "bird_rights_eligible": false,
         "eos_rank_2025": 0.0,
         "faab_used": 27.0,
@@ -378,13 +378,13 @@
         "raw_previous_salary": 0.0,
         "rookie_flag": false,
         "salary_2025": 0.0,
-        "salary_2026": 29.0,
-        "salary_source": "Opening keeper/UFA value",
+        "salary_2026": 27.0,
+        "salary_source": "Winning FAAB bid",
         "source_pick": 0,
         "team_id": "amherst_speedsters",
         "team_name": "Amherst Speedsters",
         "ufa_pick": null,
-        "value_source": "Opening keeper/UFA value"
+        "value_source": "Winning FAAB bid"
       },
       {
         "acquisition_timestamp": "10/28/2026 04:21 AM",
@@ -411,36 +411,36 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "amherst_speedsters",
         "team_name": "Amherst Speedsters",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       }
     ],
     "summary": {
-      "active_roster_payroll": 412.0,
+      "active_roster_payroll": 410.0,
       "auction_eligible": "Yes",
       "bird_rights_used": "No",
-      "cap_space": -20.0,
-      "current_payroll": 418.0,
+      "cap_space": -18.0,
+      "current_payroll": 416.0,
       "dead_cap_total": 6.0,
       "error_count": 0,
       "faab_budget": 0,
       "faab_spent": 27.0,
       "faab_start": 11.0,
-      "hard_cap_room": 64.0,
+      "hard_cap_room": 66.0,
       "in_season_status": "Over Soft Cap",
-      "luxury_tax_estimate": 2.0,
+      "luxury_tax_estimate": 1.8,
       "manager_name": "Jim",
       "missing_submission": "No",
       "notes": "",
-      "over_soft_cap_amount": 20.0,
+      "over_soft_cap_amount": 18.0,
       "projected_keeper_salary": 211.0,
       "roster_count": 13,
       "selected_keeper_count": 5,
-      "soft_cap_room": -20.0,
+      "soft_cap_room": -18.0,
       "team_id": "amherst_speedsters",
       "team_name": "Amherst Speedsters",
       "team_page": "teams/amherst_speedsters.html",
@@ -866,12 +866,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "boston_bombers",
         "team_name": "Boston Bombers",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       }
     ],
     "summary": {
@@ -1319,12 +1319,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "brooklyn_phoeniks",
         "team_name": "Brooklyn Phoeniks",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       }
     ],
     "summary": {
@@ -2616,12 +2616,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "flint_tropics",
         "team_name": "Flint Tropics",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       },
       {
         "acquisition_timestamp": "10/31/2026 04:25 AM",
@@ -2648,12 +2648,12 @@
         "rookie_flag": false,
         "salary_2025": 4.0,
         "salary_2026": 5.0,
-        "salary_source": "Opening keeper/UFA value",
+        "salary_source": "Original UFA value",
         "source_pick": 0,
         "team_id": "flint_tropics",
         "team_name": "Flint Tropics",
         "ufa_pick": null,
-        "value_source": "Opening keeper/UFA value"
+        "value_source": "Original UFA value"
       }
     ],
     "summary": {
@@ -3494,12 +3494,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "gotham_great_danes",
         "team_name": "Gotham Great Danes",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       }
     ],
     "summary": {
@@ -4727,18 +4727,18 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "ny_knickerbockers",
         "team_name": "NY Knickerbockers",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       },
       {
         "acquisition_timestamp": "10/30/2026 04:25 AM",
         "acquisition_transaction_id": "478.l.11097.tr.126",
         "acquisition_type": "Waiver",
-        "approved_2026_salary": 1.0,
+        "approved_2026_salary": 30.0,
         "bird_rights_eligible": false,
         "eos_rank_2025": 0.0,
         "faab_used": 30.0,
@@ -4758,13 +4758,13 @@
         "raw_previous_salary": 0.0,
         "rookie_flag": false,
         "salary_2025": 0.0,
-        "salary_2026": 1.0,
-        "salary_source": "Opening keeper/UFA value",
+        "salary_2026": 30.0,
+        "salary_source": "Winning FAAB bid",
         "source_pick": 0,
         "team_id": "ny_knickerbockers",
         "team_name": "NY Knickerbockers",
         "ufa_pick": null,
-        "value_source": "Opening keeper/UFA value"
+        "value_source": "Winning FAAB bid"
       },
       {
         "acquisition_timestamp": "10/21/2026 04:15 AM",
@@ -4800,27 +4800,27 @@
       }
     ],
     "summary": {
-      "active_roster_payroll": 399.0,
+      "active_roster_payroll": 428.0,
       "auction_eligible": "Yes",
       "bird_rights_used": "No",
-      "cap_space": -56.0,
-      "current_payroll": 454.0,
+      "cap_space": -85.0,
+      "current_payroll": 483.0,
       "dead_cap_total": 55.0,
       "error_count": 0,
       "faab_budget": 0,
       "faab_spent": 40.0,
       "faab_start": 8.0,
-      "hard_cap_room": 28.0,
-      "in_season_status": "Over Soft Cap",
-      "luxury_tax_estimate": 5.6000000000000005,
+      "hard_cap_room": -1.0,
+      "in_season_status": "Hard Cap Issue",
+      "luxury_tax_estimate": 8.5,
       "manager_name": "4EVRL8",
       "missing_submission": "No",
       "notes": "",
-      "over_soft_cap_amount": 56.0,
+      "over_soft_cap_amount": 85.0,
       "projected_keeper_salary": 95.0,
       "roster_count": 13,
       "selected_keeper_count": 6,
-      "soft_cap_room": -56.0,
+      "soft_cap_room": -85.0,
       "team_id": "ny_knickerbockers",
       "team_name": "NY Knickerbockers",
       "team_page": "teams/ny_knickerbockers.html",
@@ -5212,12 +5212,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "rucker_park_busters",
         "team_name": "Rucker Park Busters",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       },
       {
         "acquisition_timestamp": "10/30/2026 04:25 AM",
@@ -5612,7 +5612,7 @@
         "acquisition_timestamp": "10/30/2026 04:25 AM",
         "acquisition_transaction_id": "478.l.11097.tr.128",
         "acquisition_type": "Waiver",
-        "approved_2026_salary": 1.0,
+        "approved_2026_salary": 3.0,
         "bird_rights_eligible": false,
         "eos_rank_2025": 0.0,
         "faab_used": 3.0,
@@ -5632,13 +5632,13 @@
         "raw_previous_salary": 0.0,
         "rookie_flag": false,
         "salary_2025": 0.0,
-        "salary_2026": 1.0,
-        "salary_source": "Opening keeper/UFA value",
+        "salary_2026": 3.0,
+        "salary_source": "Winning FAAB bid",
         "source_pick": 0,
         "team_id": "salt_lake_city_soakers",
         "team_name": "Salt Lake City Soakers",
         "ufa_pick": null,
-        "value_source": "Opening keeper/UFA value"
+        "value_source": "Winning FAAB bid"
       },
       {
         "acquisition_timestamp": "10/30/2026 04:25 AM",
@@ -5674,17 +5674,17 @@
       }
     ],
     "summary": {
-      "active_roster_payroll": 329.0,
+      "active_roster_payroll": 331.0,
       "auction_eligible": "Yes",
       "bird_rights_used": "No",
-      "cap_space": 26.0,
-      "current_payroll": 372.0,
+      "cap_space": 24.0,
+      "current_payroll": 374.0,
       "dead_cap_total": 43.0,
       "error_count": 0,
       "faab_budget": 24.0,
       "faab_spent": 6.0,
       "faab_start": 30.0,
-      "hard_cap_room": 110.0,
+      "hard_cap_room": 108.0,
       "in_season_status": "Under Soft Cap",
       "luxury_tax_estimate": 0.0,
       "manager_name": "Abel",
@@ -5694,7 +5694,7 @@
       "projected_keeper_salary": 162.0,
       "roster_count": 12,
       "selected_keeper_count": 5,
-      "soft_cap_room": 26.0,
+      "soft_cap_room": 24.0,
       "team_id": "salt_lake_city_soakers",
       "team_name": "Salt Lake City Soakers",
       "team_page": "teams/salt_lake_city_soakers.html",
@@ -6054,12 +6054,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "syracuse_sparrows",
         "team_name": "Syracuse Sparrows",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       },
       {
         "acquisition_timestamp": "10/28/2026 04:21 AM",
@@ -6086,12 +6086,12 @@
         "rookie_flag": false,
         "salary_2025": 0.0,
         "salary_2026": 1.0,
-        "salary_source": "Free-agent minimum",
+        "salary_source": "Waiver/free-agent minimum",
         "source_pick": 0,
         "team_id": "syracuse_sparrows",
         "team_name": "Syracuse Sparrows",
         "ufa_pick": null,
-        "value_source": "Free-agent minimum"
+        "value_source": "Waiver/free-agent minimum"
       }
     ],
     "summary": {
