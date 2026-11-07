@@ -1,0 +1,262 @@
+{
+  "slug": "association",
+  "season": "2026-27",
+  "week": 2,
+  "league_key": "478.l.11097",
+  "updated_at": "2026-11-07T08:14:44.230001-05:00",
+  "source_type": "live",
+  "events": [
+    {
+      "id": "478.l.11097:2:478.l.11097.t.1:478.l.11097.t.11",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.1",
+        "478.l.11097.t.11"
+      ],
+      "winner": "478.l.11097.t.1",
+      "names": [
+        "Gotham Great Danes",
+        "NY Knickerbockers"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "first_win",
+        "repeat",
+        "upset"
+      ],
+      "priority": 14.0,
+      "rivalry_change": 2.0,
+      "fact": "Gotham Great Danes beat NY Knickerbockers, 5–4 in categories.",
+      "details": [
+        "Gotham Great Danes moved to 1-1-0 in weekly matchups, with NY Knickerbockers at 1-1-0.",
+        "Going in, NY Knickerbockers had the better matchup record (1-0-0 to 0-1-0).",
+        "It was the first matchup win of the season for Gotham Great Danes.",
+        "The winning manager has taken 4 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.13:478.l.11097.t.4",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.13",
+        "478.l.11097.t.4"
+      ],
+      "winner": "478.l.11097.t.13",
+      "names": [
+        "Syracuse Sparrows",
+        "Brooklyn Phoeniks"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "first_win",
+        "revenge",
+        "upset"
+      ],
+      "priority": 13.0,
+      "rivalry_change": 1.0,
+      "fact": "Syracuse Sparrows beat Brooklyn Phoeniks, 5–4 in categories.",
+      "details": [
+        "Syracuse Sparrows moved to 1-1-0 in weekly matchups, with Brooklyn Phoeniks at 1-1-0.",
+        "Going in, Brooklyn Phoeniks had the better matchup record (1-0-0 to 0-1-0).",
+        "It was the first matchup win of the season for Syracuse Sparrows.",
+        "Syracuse Sparrows reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.14:478.l.11097.t.6",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.14",
+        "478.l.11097.t.6"
+      ],
+      "winner": "478.l.11097.t.14",
+      "names": [
+        "Titanes de San Juan",
+        "Chicago Sunroofers"
+      ],
+      "margin": 5,
+      "tags": [
+        "first_win",
+        "jump",
+        "repeat",
+        "statement"
+      ],
+      "priority": 12.0,
+      "rivalry_change": 1.0,
+      "fact": "Titanes de San Juan beat Chicago Sunroofers, 7–2 in categories.",
+      "details": [
+        "Titanes de San Juan moved to 1-1-0 in weekly matchups, with Chicago Sunroofers at 0-2-0.",
+        "It was the first matchup win of the season for Titanes de San Juan.",
+        "Titanes de San Juan climbed from No. 15 to No. 8 in the UFBball standings.",
+        "The winning manager has taken 3 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.15:478.l.11097.t.9",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.15",
+        "478.l.11097.t.9"
+      ],
+      "winner": "478.l.11097.t.15",
+      "names": [
+        "Van City Grizzlies",
+        "Miami Moneymen"
+      ],
+      "margin": 3,
+      "tags": [
+        "jump",
+        "revenge",
+        "unbeaten"
+      ],
+      "priority": 8.0,
+      "rivalry_change": 1.0,
+      "fact": "Van City Grizzlies beat Miami Moneymen, 6–3 in categories.",
+      "details": [
+        "Van City Grizzlies moved to 2-0-0 in weekly matchups, with Miami Moneymen at 0-2-0.",
+        "Van City Grizzlies is still unbeaten.",
+        "Van City Grizzlies climbed from No. 8 to No. 3 in the UFBball standings.",
+        "Van City Grizzlies reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.16:478.l.11097.t.7",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.16",
+        "478.l.11097.t.7"
+      ],
+      "winner": "478.l.11097.t.7",
+      "names": [
+        "Frankfurt 17ers",
+        "Flint Tropics"
+      ],
+      "margin": 3,
+      "tags": [
+        "first_win",
+        "upset"
+      ],
+      "priority": 8.0,
+      "rivalry_change": 1.0,
+      "fact": "Frankfurt 17ers beat Flint Tropics, 6–3 in categories.",
+      "details": [
+        "Frankfurt 17ers moved to 1-1-0 in weekly matchups, with Flint Tropics at 1-1-0.",
+        "Going in, Flint Tropics had the better matchup record (1-0-0 to 0-1-0).",
+        "It was the first matchup win of the season for Frankfurt 17ers."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.12:478.l.11097.t.2",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.12",
+        "478.l.11097.t.2"
+      ],
+      "winner": "478.l.11097.t.2",
+      "names": [
+        "Amherst Speedsters",
+        "Rucker Park Busters"
+      ],
+      "margin": 3,
+      "tags": [
+        "jump",
+        "repeat",
+        "unbeaten"
+      ],
+      "priority": 7.0,
+      "rivalry_change": 0.0,
+      "fact": "Amherst Speedsters beat Rucker Park Busters, 6–3 in categories.",
+      "details": [
+        "Amherst Speedsters moved to 2-0-0 in weekly matchups, with Rucker Park Busters at 1-1-0.",
+        "Amherst Speedsters is still unbeaten.",
+        "Amherst Speedsters climbed from No. 5 to No. 1 in the UFBball standings.",
+        "The winning manager has taken 6 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.10:478.l.11097.t.8",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.10",
+        "478.l.11097.t.8"
+      ],
+      "winner": "478.l.11097.t.10",
+      "names": [
+        "Salt Lake City Soakers",
+        "Kings Landing Kings"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "first_win"
+      ],
+      "priority": 6.0,
+      "rivalry_change": 2.0,
+      "fact": "Salt Lake City Soakers beat Kings Landing Kings, 5–4 in categories.",
+      "details": [
+        "Salt Lake City Soakers moved to 1-1-0 in weekly matchups, with Kings Landing Kings at 0-2-0.",
+        "It was the first matchup win of the season for Salt Lake City Soakers."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    },
+    {
+      "id": "478.l.11097:2:478.l.11097.t.3:478.l.11097.t.5",
+      "league_id": "association",
+      "league_key": "478.l.11097",
+      "season": "2026-27",
+      "week": 2,
+      "team_ids": [
+        "478.l.11097.t.3",
+        "478.l.11097.t.5"
+      ],
+      "winner": "478.l.11097.t.3",
+      "names": [
+        "Boston Bombers",
+        "Chennai SteveBlakeExpress"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "unbeaten"
+      ],
+      "priority": 5.5,
+      "rivalry_change": 2.5,
+      "fact": "Boston Bombers beat Chennai SteveBlakeExpress, 5–4 in categories.",
+      "details": [
+        "Boston Bombers moved to 2-0-0 in weekly matchups, with Chennai SteveBlakeExpress at 1-1-0.",
+        "Boston Bombers is still unbeaten."
+      ],
+      "source": "/league/478.l.11097/scoreboard;week=2"
+    }
+  ],
+  "article_url": null
+}
