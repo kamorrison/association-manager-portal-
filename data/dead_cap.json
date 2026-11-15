@@ -72,6 +72,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.6753",
+    "player_key": "keon_ellis",
+    "player_name": "Keon Ellis",
+    "salary_2026": "3",
+    "source": "Yahoo Fantasy API",
+    "team_id": "chennai_steveblakeexpress",
+    "team_name": "Chennai SteveBlakeExpress",
+    "timestamp": "11/13/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.183",
+    "yahoo_team_id": "478.l.11097.t.5"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.10577",
     "player_key": "hannes_steinbach",
     "player_name": "Hannes Steinbach",
@@ -408,6 +422,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.6400",
+    "player_key": "obi_toppin",
+    "player_name": "Obi Toppin",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "ny_knickerbockers",
+    "team_name": "NY Knickerbockers",
+    "timestamp": "11/14/2026 04:27 AM",
+    "transaction_id": "478.l.11097.tr.185",
+    "yahoo_team_id": "478.l.11097.t.11"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.10313",
     "player_key": "oso_ighodaro",
     "player_name": "Oso Ighodaro",
@@ -571,6 +599,20 @@
     "team_name": "Van City Grizzlies",
     "timestamp": "11/01/2026 03:24 AM",
     "transaction_id": "478.l.11097.tr.154",
+    "yahoo_team_id": "478.l.11097.t.15"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.5292",
+    "player_key": "andrew_wiggins",
+    "player_name": "Andrew Wiggins",
+    "salary_2026": "32",
+    "source": "Yahoo Fantasy API",
+    "team_id": "van_city_grizzlies",
+    "team_name": "Van City Grizzlies",
+    "timestamp": "11/13/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.184",
     "yahoo_team_id": "478.l.11097.t.15"
   },
   {
