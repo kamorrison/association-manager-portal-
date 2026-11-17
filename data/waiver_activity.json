@@ -1,6 +1,26 @@
 [
   {
     "dead_cap_added": "1",
+    "dropped_players": "Santi Aldama",
+    "faab_used": "0",
+    "nba_team": "CHI",
+    "pickup_source": "Waiver",
+    "player_id": "478.p.6396",
+    "player_key": "patrick_williams",
+    "player_name": "Patrick Williams",
+    "player_value": "1",
+    "positions": "SF,PF",
+    "source": "Yahoo Fantasy API",
+    "team_id": "van_city_grizzlies",
+    "team_name": "Van City Grizzlies",
+    "timestamp": "11/15/2026 04:24 AM",
+    "transaction_id": "478.l.11097.tr.186",
+    "transaction_type": "add/drop",
+    "ufa_value": "0",
+    "value_source": "Waiver/free-agent minimum"
+  },
+  {
+    "dead_cap_added": "1",
     "dropped_players": "Obi Toppin",
     "faab_used": "0",
     "nba_team": "OKC",

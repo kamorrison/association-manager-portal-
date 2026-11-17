@@ -17,22 +17,22 @@
   {
     "label": "Players Under Contract",
     "metric": "players_under_contract",
-    "value": 202
+    "value": 201
   },
   {
     "label": "Waiver / FA Pickups",
     "metric": "waiver_pickups",
-    "value": 57
+    "value": 58
   },
   {
     "label": "League Cap Charges",
     "metric": "league_payroll",
-    "value": 6542.0
+    "value": 6543.0
   },
   {
     "label": "League Dead Cap",
     "metric": "league_dead_cap",
-    "value": 275.0
+    "value": 277.0
   },
   {
     "label": "League FAAB Remaining",
