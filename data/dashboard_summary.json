@@ -22,17 +22,17 @@
   {
     "label": "Waiver / FA Pickups",
     "metric": "waiver_pickups",
-    "value": 61
+    "value": 65
   },
   {
     "label": "League Cap Charges",
     "metric": "league_payroll",
-    "value": 6546.0
+    "value": 6554.0
   },
   {
     "label": "League Dead Cap",
     "metric": "league_dead_cap",
-    "value": 303.0
+    "value": 310.0
   },
   {
     "label": "League FAAB Remaining",
@@ -42,7 +42,7 @@
   {
     "label": "Teams Over Soft Cap",
     "metric": "teams_over_soft_cap",
-    "value": 9
+    "value": 10
   },
   {
     "label": "Teams Over Hard Cap",

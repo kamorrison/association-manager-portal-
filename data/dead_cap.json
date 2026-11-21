@@ -58,6 +58,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10097",
+    "player_key": "dereck_lively_ii",
+    "player_name": "Dereck Lively II",
+    "salary_2026": "4",
+    "source": "Yahoo Fantasy API",
+    "team_id": "boston_bombers",
+    "team_name": "Boston Bombers",
+    "timestamp": "11/20/2026 04:26 AM",
+    "transaction_id": "478.l.11097.tr.193",
+    "yahoo_team_id": "478.l.11097.t.3"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.6577",
     "player_key": "herbert_jones",
     "player_name": "Herbert Jones",
@@ -193,6 +207,34 @@
     "team_name": "Flint Tropics",
     "timestamp": "11/18/2026 04:28 AM",
     "transaction_id": "478.l.11097.tr.189",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10617",
+    "player_key": "meleek_thomas",
+    "player_name": "Meleek Thomas",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/20/2026 04:26 AM",
+    "transaction_id": "478.l.11097.tr.196",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10455",
+    "player_key": "nolan_traore",
+    "player_name": "Nolan Traore",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/20/2026 04:26 AM",
+    "transaction_id": "478.l.11097.tr.195",
     "yahoo_team_id": "478.l.11097.t.16"
   },
   {
@@ -683,6 +725,20 @@
     "team_name": "Van City Grizzlies",
     "timestamp": "11/07/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.166",
+    "yahoo_team_id": "478.l.11097.t.15"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.6396",
+    "player_key": "patrick_williams",
+    "player_name": "Patrick Williams",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "van_city_grizzlies",
+    "team_name": "Van City Grizzlies",
+    "timestamp": "11/20/2026 04:26 AM",
+    "transaction_id": "478.l.11097.tr.194",
     "yahoo_team_id": "478.l.11097.t.15"
   },
   {
