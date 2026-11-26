@@ -170,6 +170,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10122",
+    "player_key": "brice_sensabaugh",
+    "player_name": "Brice Sensabaugh",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/25/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.208",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.5640",
     "player_key": "jakob_poeltl",
     "player_name": "Jakob Poeltl",
@@ -254,6 +268,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.6267",
+    "player_key": "max_strus",
+    "player_name": "Max Strus",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/25/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.211",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.10617",
     "player_key": "meleek_thomas",
     "player_name": "Meleek Thomas",
@@ -333,6 +361,20 @@
     "team_name": "Flint Tropics",
     "timestamp": "10/30/2026 04:25 AM",
     "transaction_id": "478.l.11097.tr.133",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10441",
+    "player_key": "yanic_konan_niederhauser",
+    "player_name": "Yanic Konan Niederh\u00e4user",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/25/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.210",
     "yahoo_team_id": "478.l.11097.t.16"
   },
   {
@@ -478,6 +520,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.6499",
+    "player_key": "naji_marshall",
+    "player_name": "Naji Marshall",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "gotham_great_danes",
+    "team_name": "Gotham Great Danes",
+    "timestamp": "11/25/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.212",
+    "yahoo_team_id": "478.l.11097.t.1"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.10289",
     "player_key": "yves_missi",
     "player_name": "Yves Missi",
@@ -529,6 +585,20 @@
     "team_name": "NY Knickerbockers",
     "timestamp": "11/21/2026 10:31 AM",
     "transaction_id": "478.l.11097.tr.199",
+    "yahoo_team_id": "478.l.11097.t.11"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.5747",
+    "player_key": "derrick_jones_jr",
+    "player_name": "Derrick Jones Jr.",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "ny_knickerbockers",
+    "team_name": "NY Knickerbockers",
+    "timestamp": "11/25/2026 04:28 AM",
+    "transaction_id": "478.l.11097.tr.209",
     "yahoo_team_id": "478.l.11097.t.11"
   },
   {
