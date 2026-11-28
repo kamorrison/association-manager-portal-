@@ -184,6 +184,20 @@
   {
     "charge_type": "Waived salary",
     "notes": "Salary remains on the dropping team's cap until moved by trade.",
+    "player_id": "478.p.10456",
+    "player_key": "danny_wolf",
+    "player_name": "Danny Wolf",
+    "salary_2026": "1",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/27/2026 04:22 AM",
+    "transaction_id": "478.l.11097.tr.214",
+    "yahoo_team_id": "478.l.11097.t.16"
+  },
+  {
+    "charge_type": "Waived salary",
+    "notes": "Salary remains on the dropping team's cap until moved by trade.",
     "player_id": "478.p.5640",
     "player_key": "jakob_poeltl",
     "player_name": "Jakob Poeltl",

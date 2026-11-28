@@ -1,6 +1,26 @@
 [
   {
     "dead_cap_added": "1",
+    "dropped_players": "Danny Wolf",
+    "faab_used": "0",
+    "nba_team": "ORL",
+    "pickup_source": "Waiver",
+    "player_id": "478.p.6218",
+    "player_key": "kevin_porter_jr",
+    "player_name": "Kevin Porter Jr.",
+    "player_value": "5",
+    "positions": "PG,SG",
+    "source": "Yahoo Fantasy API",
+    "team_id": "flint_tropics",
+    "team_name": "Flint Tropics",
+    "timestamp": "11/27/2026 04:22 AM",
+    "transaction_id": "478.l.11097.tr.214",
+    "transaction_type": "add/drop",
+    "ufa_value": "5",
+    "value_source": "Original UFA value"
+  },
+  {
+    "dead_cap_added": "1",
     "dropped_players": "Naji Marshall",
     "faab_used": "0",
     "nba_team": "OKC",
